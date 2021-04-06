@@ -37,7 +37,7 @@ seen_ids = []
 # https://archiveofourown.org/works?utf8=%E2%9C%93&work_search%5Bsort_column%5D=word_count&work_search%5Bother_tag_names%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=&work_search%5Bcomplete%5D=0&commit=Sort+and+Filter&tag_id=Harry+Potter+-+J*d*+K*d*+Rowling
 # https://archiveofourown.org/tags/Harry%20Potter%20-%20J*d*%20K*d*%20Rowling/works?commit=Sort+and+Filter&page=2&utf8=%E2%9C%93&work_search%5Bcomplete%5D=0&work_search%5Blanguage_id%5D=&work_search%5Bother_tag_names%5D=&work_search%5Bquery%5D=&work_search%5Bsort_column%5D=word_count
 # how many fics they want
-# what to call the output csv
+# path to the output csv file
 # 
 # If you would like to add additional search terms (that is should contain at least one of, but not necessarily all of)
 # specify these in the tag csv, one per row. 
@@ -190,7 +190,7 @@ def add_tag_to_url(tag):
 # 
 def write_ids_to_csv(ids):
     global num_recorded_fic
-    with open(csv_name + ".csv", 'a') as csvfile:
+    with open(csv_name, 'a') as csvfile:
         wr = csv.writer(csvfile, delimiter=',')
         for id in ids:
             if (not_finished()):
@@ -222,7 +222,7 @@ def not_finished():
 # and the number of requested fics
 # 
 def make_readme():
-    with open(csv_name + "_readme.txt", "w") as text_file:
+    with open(csv_name[:-4] + "_readme.txt", "w") as text_file:
         text_file.write("url: " + url + "\n" + "num_requested_fic: " + str(num_requested_fic) + "\n" + "retreived on: " + str(datetime.datetime.now()))
 
 # reset flags to run again

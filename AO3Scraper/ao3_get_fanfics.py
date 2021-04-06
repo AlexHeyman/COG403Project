@@ -179,7 +179,9 @@ def write_fic_to_csv(fic_id, only_first_chap, lang, writer, errorwriter, header_
 	if not only_first_chap:
 		url = url + '&amp;view_full_work=true'
 	headers = {'user-agent' : header_info}
+	print('starting')
 	req = requests.get(url, headers=headers)
+	print('finishing')
 	src = req.text
 	soup = BeautifulSoup(src, 'html.parser')
 	if (access_denied(soup)):
@@ -279,7 +281,7 @@ def main():
 				csv_fname = fic_ids[0]
 				with open(csv_fname, 'r+') as f_in:
 					reader = csv.reader(f_in)
-					if restart is '':
+					if restart == '':
 						for row in reader:
 							if not row:
 								continue
@@ -292,14 +294,14 @@ def main():
 								continue
 							found_restart = process_id(row[0], restart, found_restart)
 							if found_restart:
-								write_fic_to_csv(row[0], only_first_chap, writer, errorwriter, headers)
+								write_fic_to_csv(row[0], only_first_chap, lang, writer, errorwriter, headers)
 								time.sleep(delay)
 							else:
 								print('Skipping already processed fic')
 
 			else:
 				for fic_id in fic_ids:
-					write_fic_to_csv(fic_id, only_first_chap, writer, errorwriter, headers)
+					write_fic_to_csv(fic_id, only_first_chap, lang, writer, errorwriter, headers)
 					time.sleep(delay)
 
 main()
