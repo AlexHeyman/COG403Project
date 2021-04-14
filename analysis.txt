@@ -1,0 +1,2899 @@
+Words with highest valence:
+happy/ADJ
+Model 1 | Model 2
+happy/ADJ happy/ADJ
+excited/ADJ afraid/ADJ
+pleased/ADJ proud/ADJ
+relieved/ADJ glad/ADJ
+glad/ADJ worried/ADJ
+surprised/ADJ jealous/ADJ
+angry/ADJ scared/ADJ
+exhausted/ADJ embarrassed/ADJ
+impressed/ADJ excited/ADJ
+interested/ADJ relieved/ADJ
+fast/ADJ sad/ADJ
+prepared/ADJ sure/ADJ
+determined/ADJ offended/ADJ
+sorry/ADJ upset/ADJ
+lucky/ADJ mean/ADJ
+scared/ADJ unfair/ADJ
+ready/ADJ pleased/ADJ
+polite/ADJ surprised/ADJ
+upset/ADJ tired/ADJ
+proud/ADJ suspicious/ADJ
+Words in common: 9/20
+
+fun/NOUN
+Model 1 | Model 2
+fun/NOUN fun/NOUN
+choice/NOUN trouble/NOUN
+trouble/NOUN money/NOUN
+peace/NOUN request/NOUN
+sense/NOUN faith/NOUN
+mistake/NOUN choice/NOUN
+use/NOUN energy/NOUN
+difficulty/NOUN cookie/NOUN
+respect/NOUN potential/NOUN
+excuse/NOUN progress/NOUN
+food/NOUN sense/NOUN
+evidence/NOUN mistake/NOUN
+faith/NOUN mine/PRON
+credit/NOUN medicine/NOUN
+idea/NOUN pleasure/NOUN
+knowledge/NOUN plenty/NOUN
+clue/NOUN use/NOUN
+list/NOUN excuse/NOUN
+decision/NOUN endure/VERB
+sure/ADJ inspiration/NOUN
+Words in common: 8/20
+
+fun/ADJ
+Model 1 | Model 2
+fun/ADJ fun/ADJ
+ok/ADJ popular/ADJ
+alright/ADJ cruel/ADJ
+wonderful/ADJ interesting/ADJ
+interesting/ADJ fine/ADJ
+specific/ADJ ridiculous/ADJ
+awesome/ADJ illegal/ADJ
+adorable/ADJ sure/ADV
+confusing/ADJ insane/ADJ
+hungry/ADJ rude/ADJ
+unexpected/ADJ easy/ADJ
+important/ADJ late/ADJ
+cost/VERB solve/VERB
+insane/ADJ offended/ADJ
+true/ADJ funny/ADJ
+normal/ADJ impossible/ADJ
+hilarious/ADJ amazing/ADJ
+boring/ADJ dangerous/ADJ
+funny/ADJ scary/ADJ
+impressive/ADJ nice/ADJ
+Words in common: 4/20
+
+free/ADJ
+Model 1 | Model 2
+free/ADJ free/ADJ
+length/NOUN remove/VERB
+strap/NOUN pack/NOUN
+one/NUM mate/NOUN
+sleeve/NOUN because/ADV
+under/ADV dress/NOUN
+sandwich/NOUN reading/NOUN
+spare/ADJ shaky/ADJ
+upper/ADJ skill/NOUN
+hers/PRON ready/ADJ
+trace/VERB potential/NOUN
+responsibility/NOUN drawer/NOUN
+harm/NOUN proper/ADJ
+left/ADJ previous/ADJ
+tip/NOUN support/VERB
+safety/NOUN risk/VERB
+flail/VERB short/ADV
+gloved/ADJ personal/ADJ
+combat/NOUN withdraw/VERB
+rid/VERB left/ADJ
+Words in common: 2/20
+
+hug/NOUN
+Model 1 | Model 2
+hug/NOUN hug/NOUN
+squeeze/NOUN giggle/NOUN
+punch/NOUN pause/NOUN
+circle/NOUN groan/NOUN
+ball/NOUN vicious/ADJ
+grin/NOUN laugh/NOUN
+nod/NOUN huff/NOUN
+manner/NOUN growl/NOUN
+laugh/NOUN gasp/NOUN
+embrace/NOUN chuckle/NOUN
+beat/NOUN greeting/NOUN
+apology/NOUN yawn/NOUN
+bath/NOUN fit/NOUN
+search/NOUN shrug/NOUN
+rush/NOUN nod/NOUN
+whisper/NOUN cough/NOUN
+squeak/VERB startle/VERB
+check/NOUN scowl/NOUN
+chip/NOUN reply/NOUN
+sob/NOUN pleasant/ADJ
+Words in common: 3/20
+
+hug/VERB
+Model 1 | Model 2
+hug/VERB hug/VERB
+nudge/VERB rock/VERB
+haul/VERB bend/VERB
+lower/VERB tackle/VERB
+grip/VERB lean/VERB
+acknowledge/VERB haul/VERB
+straighten/VERB fold/VERB
+sag/VERB scoot/VERB
+slump/VERB nudge/VERB
+curse/VERB thrust/VERB
+squeeze/VERB occasionally/ADV
+sob/VERB flick/VERB
+pant/VERB forth/ADV
+bow/VERB plop/VERB
+lean/VERB glance/VERB
+sniff/VERB drag/VERB
+pet/VERB stumble/VERB
+prod/VERB bounce/VERB
+tremble/VERB smack/VERB
+exhale/VERB cautiously/ADV
+Words in common: 4/20
+
+joy/NOUN
+Model 1 | Model 2
+joy/NOUN joy/NOUN
+love/NOUN middle/NOUN
+basic/ADJ paperwork/NOUN
+worry/NOUN pit/NOUN
+cruel/ADJ shame/NOUN
+physical/ADJ center/NOUN
+citizen/NOUN trouble/NOUN
+protest/NOUN desert/NOUN
+danger/NOUN background/NOUN
+instinct/NOUN negative/ADJ
+technology/NOUN use/NOUN
+comfortable/ADJ pulse/NOUN
+star/NOUN majority/NOUN
+trust/NOUN emotion/NOUN
+determination/NOUN cause/NOUN
+terrifying/ADJ reflection/NOUN
+drawing/NOUN absence/NOUN
+fear/NOUN bottom/NOUN
+introduction/NOUN bite/NOUN
+agony/NOUN lump/NOUN
+Words in common: 1/20
+
+honest/ADJ
+Model 1 | Model 2
+honest/ADJ honest/ADJ
+rude/ADJ careful/ADJ
+eager/ADJ cruel/ADJ
+pointless/ADJ determined/ADJ
+embarrassed/ADJ illegal/ADJ
+careful/ADJ mine/PRON
+tend/VERB awesome/ADJ
+optimistic/ADJ hungry/ADJ
+prepared/ADJ sorry/ADJ
+appropriate/ADJ pleased/ADJ
+grateful/ADJ chichiue/NOUN
+impressed/ADJ eager/ADJ
+lucky/ADJ patient/ADJ
+surprised/ADJ arrogant/ADJ
+pleased/ADJ ought/AUX
+straight/ADJ relatively/ADV
+drunk/ADJ worthy/ADJ
+fast/ADJ human/ADJ
+welcome/ADJ promise/VERB
+close/ADJ late/ADJ
+Words in common: 4/20
+
+excited/ADJ
+Model 1 | Model 2
+excited/ADJ excited/ADJ
+upset/ADJ embarrassed/ADJ
+optimistic/ADJ scared/ADJ
+worried/ADJ embarrassing/ADJ
+scared/ADJ flustered/ADJ
+concerned/ADJ angry/ADJ
+happy/ADJ happy/ADJ
+exhausted/ADJ sick/ADJ
+serious/ADJ concerned/ADJ
+interested/ADJ suspicious/ADJ
+pleased/ADJ worried/ADJ
+proud/ADJ hungry/ADJ
+impressed/ADJ arrogant/ADJ
+relieved/ADJ jealous/ADJ
+shy/ADJ proud/ADJ
+confusing/ADJ nervous/ADJ
+anxious/ADJ tired/ADJ
+fun/ADJ sorry/ADJ
+difficult/ADJ offended/ADJ
+angry/ADJ illegal/ADJ
+Words in common: 7/20
+
+laughter/NOUN
+Model 1 | Model 2
+laughter/NOUN laughter/NOUN
+discomfort/NOUN palm/NOUN
+gravity/NOUN spine/NOUN
+shout/NOUN laugh/NOUN
+chamber/NOUN forearm/NOUN
+cry/NOUN excitement/NOUN
+reach/NOUN wrist/NOUN
+uniform/NOUN frown/NOUN
+port/NOUN feature/NOUN
+laboratory/NOUN protest/NOUN
+concern/NOUN giggle/NOUN
+stiffen/VERB lung/NOUN
+journal/NOUN footstep/NOUN
+rage/NOUN eyelash/NOUN
+touch/NOUN scowl/NOUN
+yelp/VERB knuckle/NOUN
+house/NOUN cough/NOUN
+echo/VERB rage/NOUN
+dread/NOUN ear/NOUN
+platform/NOUN breathing/NOUN
+Words in common: 2/20
+
+peaceful/ADJ
+Model 1 | Model 2
+peaceful/ADJ peaceful/ADJ
+dull/ADJ pathetic/ADJ
+pile/NOUN wonderful/ADJ
+distant/ADJ confused/ADJ
+fabric/NOUN foreign/ADJ
+protective/ADJ hopeless/ADJ
+spray/NOUN quiet/ADJ
+physical/ADJ kind/ADJ
+broken/ADJ harsh/ADJ
+natural/ADJ impressed/ADJ
+fresh/ADJ miserable/ADJ
+meal/NOUN delighted/ADJ
+expensive/ADJ bad/ADJ
+intense/ADJ shocked/ADJ
+heavy/ADJ russian/ADJ
+delicious/ADJ breathless/ADJ
+crystal/NOUN concentrate/VERB
+wild/ADJ relieved/ADJ
+minor/ADJ disappointed/ADJ
+silver/ADJ calm/ADJ
+Words in common: 1/20
+
+love/NOUN
+Model 1 | Model 2
+love/NOUN love/NOUN
+joy/NOUN inspiration/NOUN
+wife/NOUN victory/NOUN
+boyfriend/NOUN wardrobe/NOUN
+kingdom/NOUN pride/NOUN
+future/NOUN snow/NOUN
+schedule/NOUN progress/NOUN
+universe/NOUN highly/ADV
+faith/NOUN privacy/NOUN
+charge/NOUN fault/NOUN
+database/NOUN wake/NOUN
+record/NOUN request/NOUN
+depth/NOUN pleasure/NOUN
+store/NOUN life/NOUN
+defense/NOUN honor/NOUN
+destiny/NOUN talent/NOUN
+term/NOUN welcome/ADJ
+technology/NOUN concern/NOUN
+success/NOUN satisfied/ADJ
+strategy/NOUN faith/NOUN
+Words in common: 2/20
+
+love/VERB
+Model 1 | Model 2
+love/VERB love/VERB
+trust/VERB like/VERB
+hate/VERB appreciate/VERB
+like/VERB hate/VERB
+understand/VERB miss/VERB
+promise/VERB trust/VERB
+know/VERB kill/VERB
+therefore/ADV name/VERB
+besides/ADV doubt/VERB
+owe/VERB upset/VERB
+fear/VERB suspect/VERB
+desire/VERB wish/VERB
+grant/VERB owe/VERB
+fucking/ADV prefer/VERB
+assure/VERB otherwise/ADV
+miss/VERB mind/VERB
+adopt/VERB proud/ADJ
+wish/VERB forgive/VERB
+excuse/VERB understand/VERB
+…/AUX tell/VERB
+Words in common: 8/20
+
+giggle/VERB
+Model 1 | Model 2
+giggle/VERB giggle/VERB
+scowl/VERB snort/VERB
+cringe/VERB drawl/VERB
+snort/VERB mumble/VERB
+chuckle/VERB exclaim/VERB
+scoff/VERB frown/VERB
+grunt/VERB shrug/VERB
+grin/VERB grumble/VERB
+growl/VERB yawn/VERB
+smirk/VERB groan/VERB
+squeak/VERB wince/VERB
+grumble/VERB jolt/VERB
+wince/VERB growl/VERB
+exhale/VERB scoff/VERB
+yelp/VERB beam/VERB
+moan/VERB chuckle/VERB
+exclaim/VERB gulp/VERB
+grimace/VERB snarl/VERB
+snarl/VERB hum/VERB
+beam/VERB muse/VERB
+Words in common: 10/20
+
+live/VERB
+Model 1 | Model 2
+live/VERB live/VERB
+join/VERB sleep/VERB
+survive/VERB stay/VERB
+trap/VERB destroy/VERB
+hunt/VERB trust/VERB
+respect/VERB swim/VERB
+trust/VERB survive/VERB
+strategy/NOUN text/VERB
+deal/VERB train/VERB
+build/VERB buy/VERB
+post/VERB spend/VERB
+murder/VERB rely/VERB
+sleep/VERB join/VERB
+drink/VERB fight/VERB
+behave/VERB work/VERB
+travel/VERB handle/VERB
+discover/VERB graduate/VERB
+save/VERB sulk/VERB
+manipulate/VERB invite/VERB
+communicate/VERB die/VERB
+Words in common: 5/20
+
+travel/VERB
+Model 1 | Model 2
+travel/VERB travel/VERB
+communicate/VERB leap/VERB
+treat/VERB tumble/VERB
+taunt/VERB sail/VERB
+charge/VERB slide/VERB
+fight/VERB dart/VERB
+work/VERB trip/VERB
+sway/VERB flow/VERB
+crash/VERB wander/VERB
+skate/VERB flee/VERB
+deal/VERB sweep/VERB
+pass/VERB float/VERB
+live/VERB peek/VERB
+escape/VERB drape/VERB
+mock/VERB disappear/VERB
+apologize/VERB heal/VERB
+sleep/VERB crumble/VERB
+rink/NOUN jump/VERB
+die/VERB oblivious/ADJ
+sneak/VERB stumble/VERB
+Words in common: 1/20
+
+smile/NOUN
+Model 1 | Model 2
+smile/NOUN smile/NOUN
+grin/NOUN grin/NOUN
+frown/NOUN smirk/NOUN
+smirk/NOUN expression/NOUN
+expression/NOUN frown/NOUN
+blush/NOUN laugh/NOUN
+nod/NOUN look/NOUN
+laugh/NOUN blush/NOUN
+chuckle/NOUN sigh/NOUN
+gasp/NOUN wave/NOUN
+look/NOUN hum/NOUN
+heel/NOUN huff/NOUN
+faintly/ADV chuckle/NOUN
+jaw/NOUN tone/NOUN
+tone/NOUN nod/NOUN
+glare/NOUN bow/NOUN
+gentle/ADJ face/NOUN
+groan/NOUN forearm/NOUN
+huff/NOUN feature/NOUN
+friendly/ADJ grunt/NOUN
+Words in common: 12/20
+
+good/NOUN
+Model 1 | Model 2
+good/NOUN good/NOUN
+deal/NOUN damage/NOUN
+detail/NOUN damn/ADJ
+fate/NOUN success/NOUN
+activity/NOUN got/VERB
+choice/NOUN sorrow/NOUN
+subject/NOUN cake/NOUN
+harm/NOUN victory/NOUN
+boring/ADJ business/NOUN
+technology/NOUN airport/NOUN
+damage/NOUN cage/NOUN
+timing/NOUN situation/NOUN
+money/NOUN money/NOUN
+aid/NOUN emotion/NOUN
+awesome/ADJ mistake/NOUN
+luck/NOUN dream/NOUN
+fucking/ADJ paperwork/NOUN
+secret/NOUN anyways/ADV
+problem/NOUN research/NOUN
+crazy/ADJ honor/NOUN
+Words in common: 3/20
+
+smile/VERB
+Model 1 | Model 2
+smile/VERB smile/VERB
+grin/VERB grin/VERB
+chuckle/VERB beam/VERB
+beam/VERB pout/VERB
+laugh/VERB brightly/ADV
+frown/VERB laugh/VERB
+cringe/VERB scowl/VERB
+smirk/VERB frown/VERB
+hiss/VERB sweetly/ADV
+moan/VERB stare/VERB
+grunt/VERB smirk/VERB
+sigh/VERB scoff/VERB
+wince/VERB glance/VERB
+exhale/VERB sadly/ADV
+snort/VERB glower/VERB
+sniff/VERB glare/VERB
+nod/VERB blink/VERB
+wink/VERB chuckle/VERB
+grimace/VERB snort/VERB
+giggle/VERB softly/ADV
+Words in common: 8/20
+
+affection/NOUN
+Model 1 | Model 2
+affection/NOUN affection/NOUN
+hunger/NOUN sorrow/NOUN
+method/NOUN anxiety/NOUN
+personal/ADJ hunger/NOUN
+schematic/NOUN confidence/NOUN
+footstep/NOUN success/NOUN
+pasta/NOUN fury/NOUN
+core/NOUN suit/NOUN
+height/NOUN official/ADJ
+aid/NOUN smell/NOUN
+lack/NOUN height/NOUN
+anger/NOUN pure/ADJ
+value/NOUN skill/NOUN
+safety/NOUN forearm/NOUN
+loss/NOUN vision/NOUN
+distress/NOUN kindness/NOUN
+faith/NOUN nature/NOUN
+private/ADJ intensity/NOUN
+reach/NOUN worry/NOUN
+life/NOUN acceptance/NOUN
+Words in common: 3/20
+
+High-valence words in common: 97/400
+
+Words with lowest valence:
+murder/VERB
+Model 1 | Model 2
+murder/VERB murder/VERB
+kill/VERB kill/VERB
+trust/VERB join/VERB
+convince/VERB text/VERB
+protect/VERB tutor/VERB
+gain/VERB comfort/VERB
+rescue/VERB visit/VERB
+sleep/VERB die/VERB
+defend/VERB protect/VERB
+allow/VERB spike/VERB
+guarantee/VERB forgive/VERB
+communicate/VERB feed/VERB
+concentrate/VERB ground/VERB
+fix/VERB save/VERB
+persuade/VERB choose/VERB
+blame/VERB tag/VERB
+free/VERB let/AUX
+respect/VERB trust/VERB
+dare/VERB texte/VERB
+claim/VERB survive/VERB
+Words in common: 4/20
+
+die/VERB
+Model 1 | Model 2
+die/VERB die/VERB
+endure/VERB kill/VERB
+kill/VERB hunt/VERB
+rescue/VERB murder/VERB
+fear/VERB forgive/VERB
+sleep/VERB text/VERB
+forgive/VERB save/VERB
+escape/VERB win/VERB
+judge/VERB fight/VERB
+slow/ADV date/VERB
+mock/VERB protect/VERB
+understand/VERB destroy/VERB
+shower/VERB marry/VERB
+betray/VERB join/VERB
+master/VERB train/VERB
+anywhere/ADV get/AUX
+react/VERB fucking/INTJ
+trust/NOUN invite/VERB
+promise/VERB encourage/VERB
+determine/VERB scare/VERB
+Words in common: 3/20
+
+killer/NOUN
+Model 1 | Model 2
+killer/NOUN killer/NOUN
+bounty/NOUN warrior/NOUN
+park/NOUN mystery/NOUN
+witch/NOUN result/NOUN
+murder/NOUN competition/NOUN
+stand/NOUN show/NOUN
+magical/ADJ ninja/NOUN
+coffin/NOUN library/NOUN
+up/NOUN combination/NOUN
+major/NOUN genius/NOUN
+steel/NOUN phrase/NOUN
+heap/NOUN popular/ADJ
+crack/NOUN thousand/NUM
+standard/ADJ nation/NOUN
+forest/NOUN news/NOUN
+god/NOUN blow/NOUN
+clearing/NOUN unlike/ADP
+hole/NOUN rare/ADJ
+like/ADJ foreign/ADJ
+fight/NOUN fifteen/NUM
+Words in common: 1/20
+
+nightmare/NOUN
+Model 1 | Model 2
+nightmare/NOUN nightmare/NOUN
+problem/NOUN hmm/INTJ
+story/NOUN lord/NOUN
+doubt/NOUN got/VERB
+dream/NOUN race/NOUN
+plan/NOUN joke/NOUN
+country/NOUN pervert/NOUN
+pasta/NOUN freak/NOUN
+timing/NOUN genius/NOUN
+concussion/NOUN picture/NOUN
+neighbor/NOUN cookie/NOUN
+kingdom/NOUN inspiration/NOUN
+birthday/NOUN besides/ADV
+taste/NOUN plan/NOUN
+scan/NOUN jeez/INTJ
+method/NOUN nah/INTJ
+warning/NOUN problem/NOUN
+clue/NOUN man/INTJ
+secret/NOUN request/NOUN
+technology/NOUN trash/NOUN
+Words in common: 3/20
+
+kill/VERB
+Model 1 | Model 2
+kill/VERB kill/VERB
+murder/VERB murder/VERB
+protect/VERB forgive/VERB
+trust/VERB tell/VERB
+steal/VERB feed/VERB
+forgive/VERB save/VERB
+rescue/VERB die/VERB
+die/VERB tutor/VERB
+guarantee/VERB fight/VERB
+tell/VERB texte/VERB
+escape/VERB date/VERB
+expect/VERB ground/VERB
+mock/VERB convince/VERB
+save/VERB join/VERB
+react/VERB protect/VERB
+blame/VERB trust/VERB
+dare/VERB teach/VERB
+betray/VERB attack/VERB
+prefer/VERB comfort/VERB
+care/VERB hurt/VERB
+Words in common: 8/20
+
+death/NOUN
+Model 1 | Model 2
+death/NOUN death/NOUN
+victim/NOUN stop/NOUN
+protest/NOUN spike/NOUN
+threat/NOUN left/NOUN
+rank/NOUN success/NOUN
+warning/NOUN ticket/NOUN
+value/NOUN life/NOUN
+assessment/NOUN constant/ADJ
+route/NOUN hunger/NOUN
+standard/NOUN safety/NOUN
+memory/NOUN history/NOUN
+retreat/NOUN soulscape/NOUN
+distraction/NOUN cousin/NOUN
+scanner/NOUN visit/NOUN
+solution/NOUN credit/NOUN
+attack/NOUN knowledge/NOUN
+core/NOUN standard/NOUN
+reaction/NOUN sleep/NOUN
+son/NOUN connection/NOUN
+family/NOUN threat/NOUN
+Words in common: 3/20
+
+prison/NOUN
+Model 1 | Model 2
+prison/NOUN prison/NOUN
+pit/NOUN soulscape/NOUN
+library/NOUN reaction/NOUN
+cell/NOUN black/NOUN
+mirror/NOUN background/NOUN
+port/NOUN stretch/NOUN
+speaker/NOUN office/NOUN
+bedroom/NOUN throb/VERB
+memory/NOUN embrace/NOUN
+office/NOUN view/NOUN
+bathroom/NOUN scent/NOUN
+dorm/NOUN feature/NOUN
+castle/NOUN gut/NOUN
+background/NOUN hunger/NOUN
+sight/NOUN arrival/NOUN
+ceiling/NOUN system/NOUN
+river/NOUN frame/NOUN
+doorway/NOUN stress/NOUN
+home/NOUN presence/NOUN
+view/NOUN lack/NOUN
+Words in common: 4/20
+
+bury/VERB
+Model 1 | Model 2
+bury/VERB bury/VERB
+tremble/VERB twist/VERB
+twist/VERB nuzzle/VERB
+flutter/VERB heat/VERB
+press/VERB scrunch/VERB
+naked/ADJ cup/VERB
+cover/VERB flush/VERB
+determination/NOUN tuck/VERB
+punch/VERB flushed/ADJ
+betray/VERB lower/VERB
+frustration/NOUN dig/VERB
+plant/VERB poke/VERB
+torso/NOUN smooth/VERB
+drip/VERB cradle/VERB
+reflection/NOUN nudge/VERB
+hide/VERB thump/VERB
+sob/VERB dip/VERB
+soften/VERB throb/VERB
+split/VERB buzz/VERB
+tighten/VERB crumple/VERB
+Words in common: 2/20
+
+hate/VERB
+Model 1 | Model 2
+hate/VERB hate/VERB
+love/VERB wish/VERB
+assure/VERB care/VERB
+like/VERB understand/VERB
+personally/ADV annoy/VERB
+forget/VERB appreciate/VERB
+appreciate/VERB suspect/VERB
+care/VERB blame/VERB
+understand/VERB hope/VERB
+desire/VERB forgive/VERB
+know/VERB doubt/VERB
+regret/VERB personally/ADV
+wonder/VERB trust/VERB
+fear/VERB love/VERB
+tell/VERB acknowledge/VERB
+scared/ADJ please/VERB
+experience/VERB like/VERB
+annoy/VERB realise/VERB
+remind/VERB dislike/VERB
+mock/VERB remember/VERB
+Words in common: 8/20
+
+attack/NOUN
+Model 1 | Model 2
+attack/NOUN attack/NOUN
+basis/NOUN thump/VERB
+account/NOUN beat/NOUN
+victim/NOUN panic/NOUN
+matter/NOUN pound/VERB
+atmosphere/NOUN skip/VERB
+knock/NOUN spike/NOUN
+argument/NOUN constant/ADJ
+uniform/NOUN ache/VERB
+explosion/NOUN cage/NOUN
+battle/NOUN childish/ADJ
+crash/NOUN produce/VERB
+site/NOUN grimace/NOUN
+show/NOUN scowl/NOUN
+presence/NOUN rate/NOUN
+assault/NOUN terror/NOUN
+item/NOUN wave/NOUN
+colony/NOUN success/NOUN
+retreat/NOUN scream/NOUN
+reaction/NOUN massive/ADJ
+Words in common: 1/20
+
+pain/NOUN
+Model 1 | Model 2
+pain/NOUN pain/NOUN
+anger/NOUN emotion/NOUN
+shock/NOUN heat/NOUN
+agony/NOUN scream/NOUN
+emotion/NOUN ache/NOUN
+tension/NOUN background/NOUN
+rib/NOUN crack/NOUN
+wind/NOUN glint/NOUN
+sheer/ADJ happiness/NOUN
+heat/NOUN lump/NOUN
+amber/NOUN joy/NOUN
+pride/NOUN guilt/NOUN
+embarrassment/NOUN shadow/NOUN
+sensation/NOUN sensation/NOUN
+lightsaber/NOUN pit/NOUN
+blood/NOUN progress/NOUN
+curtain/NOUN fear/NOUN
+liquid/NOUN warmth/NOUN
+wave/NOUN sorrow/NOUN
+pulse/NOUN action/NOUN
+Words in common: 4/20
+
+attack/VERB
+Model 1 | Model 2
+attack/VERB attack/VERB
+hunt/VERB date/VERB
+date/VERB offend/VERB
+notice/VERB hurry/VERB
+discover/VERB manipulate/VERB
+register/VERB kill/VERB
+capture/VERB encourage/VERB
+defeat/VERB cook/VERB
+dodge/VERB fight/VERB
+react/VERB eat/VERB
+tell/VERB panic/VERB
+join/VERB feed/VERB
+marry/VERB pick/VERB
+trust/VERB win/VERB
+destroy/VERB sleep/VERB
+survive/VERB fire/VERB
+kidnap/VERB heal/VERB
+spot/VERB trust/VERB
+taunt/VERB undo/VERB
+encourage/VERB comfort/VERB
+Words in common: 4/20
+
+dead/ADJ
+Model 1 | Model 2
+dead/ADJ dead/ADJ
+alive/ADJ ishvalan/ADJ
+lucky/ADJ shinobi/NOUN
+mine/PRON gorgeous/ADJ
+innocent/ADJ welcome/ADJ
+gay/ADJ relatively/ADV
+smart/ADJ trap/VERB
+fault/NOUN cage/NOUN
+kidnap/VERB worried/ADJ
+rich/ADJ jerk/NOUN
+accuse/VERB brat/NOUN
+favorite/ADJ club/NOUN
+terrifying/ADJ shift/NOUN
+master/NOUN human/ADJ
+definitely/ADV habit/NOUN
+complete/ADJ cruel/ADJ
+citizen/NOUN dumb/ADJ
+straight/ADJ late/ADJ
+confusing/ADJ wonderful/ADJ
+technically/ADV pirate/NOUN
+Words in common: 1/20
+
+rude/ADJ
+Model 1 | Model 2
+rude/ADJ rude/ADJ
+scared/ADJ fun/ADJ
+optimistic/ADJ impossible/ADJ
+surprised/ADJ used/ADJ
+honest/ADJ difficult/ADJ
+exhausted/ADJ either/CCONJ
+impressed/ADJ illegal/ADJ
+upset/ADJ afraid/ADJ
+hungry/ADJ sure/ADJ
+interesting/ADJ proud/ADJ
+selfish/ADJ likely/ADJ
+annoying/ADJ actually/ADV
+prepared/ADJ cruel/ADJ
+important/ADJ concern/VERB
+embarrassed/ADJ able/ADJ
+excited/ADJ jealous/ADJ
+hurt/ADJ ought/AUX
+claim/VERB willing/ADJ
+suspicious/ADJ whoever/PRON
+anxious/ADJ glad/ADJ
+Words in common: 1/20
+
+suffer/VERB
+Model 1 | Model 2
+suffer/VERB suffer/VERB
+expect/VERB maintain/VERB
+allow/VERB carry/VERB
+require/VERB attack/VERB
+endure/VERB spare/VERB
+permit/VERB stab/VERB
+assign/VERB distract/VERB
+ground/VERB ground/VERB
+commit/VERB howl/VERB
+arrange/VERB tag/VERB
+repair/VERB buy/VERB
+emerge/VERB trash/NOUN
+complete/VERB murder/VERB
+abandon/VERB perform/VERB
+steal/VERB survive/VERB
+defeat/VERB memorize/VERB
+join/VERB expose/VERB
+destroy/VERB sign/VERB
+save/VERB recover/VERB
+anticipate/VERB mile/NOUN
+Words in common: 2/20
+
+victim/NOUN
+Model 1 | Model 2
+victim/NOUN victim/NOUN
+value/NOUN threat/NOUN
+reaction/NOUN connection/NOUN
+threat/NOUN funeral/NOUN
+impact/NOUN grace/NOUN
+lesson/NOUN delicate/ADJ
+location/NOUN force/NOUN
+extent/NOUN exception/NOUN
+attack/NOUN fate/NOUN
+introduction/NOUN suit/NOUN
+adventure/NOUN knife/NOUN
+strategy/NOUN butler/NOUN
+combination/NOUN potential/ADJ
+version/NOUN brim/NOUN
+series/NOUN absence/NOUN
+death/NOUN negative/ADJ
+statement/NOUN left/NOUN
+guardian/NOUN spike/NOUN
+consequence/NOUN chimera/NOUN
+show/NOUN task/NOUN
+Words in common: 2/20
+
+worry/VERB
+Model 1 | Model 2
+worry/VERB worry/VERB
+think/VERB care/VERB
+care/VERB complain/VERB
+doubt/VERB dream/VERB
+forget/VERB think/VERB
+talk/VERB deny/VERB
+matter/VERB mind/VERB
+understand/VERB believe/VERB
+blame/VERB sweat/VERB
+know/VERB argue/VERB
+complain/VERB forget/VERB
+doubt/NOUN honestly/ADV
+freak/VERB mention/VERB
+question/VERB bother/VERB
+like/VERB protest/VERB
+mock/VERB concern/VERB
+believe/VERB fear/VERB
+trust/VERB upset/ADJ
+tease/VERB tell/VERB
+guarantee/VERB mean/VERB
+Words in common: 6/20
+
+terrible/ADJ
+Model 1 | Model 2
+terrible/ADJ terrible/ADJ
+crazy/ADJ mistake/NOUN
+horrible/ADJ strange/ADJ
+beautiful/ADJ pathetic/ADJ
+pretty/ADJ weird/ADJ
+smart/ADJ special/ADJ
+cute/ADJ horrible/ADJ
+delicious/ADJ ridiculous/ADJ
+dangerous/ADJ monster/NOUN
+funny/ADJ shitty/ADJ
+sick/ADJ joke/NOUN
+suspicious/ADJ stupid/ADJ
+amazing/ADJ genius/NOUN
+strange/ADJ boring/ADJ
+broken/ADJ silly/ADJ
+terrifying/ADJ good/ADJ
+comfortable/ADJ dumb/ADJ
+fool/NOUN wonderful/ADJ
+specific/ADJ waste/NOUN
+magical/ADJ bad/ADJ
+Words in common: 3/20
+
+sad/ADJ
+Model 1 | Model 2
+sad/ADJ sad/ADJ
+nervous/ADJ cute/ADJ
+pained/ADJ nervous/ADJ
+confused/ADJ offended/ADJ
+genuine/ADJ surprised/ADJ
+hopeful/ADJ shocked/ADJ
+clumsy/ADJ flustered/ADJ
+relieved/ADJ worried/ADJ
+shy/ADJ angry/ADJ
+bitter/ADJ happy/ADJ
+concerned/ADJ confident/ADJ
+wide/ADJ pretty/ADJ
+satisfied/ADJ genius/NOUN
+wary/ADJ concerned/ADJ
+weak/ADJ jerk/NOUN
+stern/ADJ funny/ADJ
+faintly/ADV mean/ADJ
+worried/ADJ confused/ADJ
+desperate/ADJ annoyed/ADJ
+frustrated/ADJ pathetic/ADJ
+Words in common: 5/20
+
+worry/NOUN
+Model 1 | Model 2
+worry/NOUN worry/NOUN
+past/NOUN underwear/NOUN
+principal/NOUN forearm/NOUN
+connection/NOUN wake/NOUN
+title/NOUN partner/NOUN
+background/NOUN confidence/NOUN
+anger/NOUN pancake/NOUN
+future/NOUN terror/NOUN
+country/NOUN supply/NOUN
+touch/NOUN affection/NOUN
+partner/NOUN excitement/NOUN
+rain/NOUN inspiration/NOUN
+danger/NOUN skill/NOUN
+court/NOUN pride/NOUN
+pulse/NOUN mind/NOUN
+joy/NOUN hip/NOUN
+ponytail/NOUN sorrow/NOUN
+sword/NOUN fate/NOUN
+spring/NOUN reflection/NOUN
+introduction/NOUN victory/NOUN
+Words in common: 2/20
+
+Low-valence words in common: 67/400
+
+Words with highest arousal:
+gun/NOUN
+Model 1 | Model 2
+gun/NOUN gun/NOUN
+chair/NOUN scar/NOUN
+view/NOUN rock/NOUN
+wheelchair/NOUN knock/NOUN
+pocket/NOUN crown/NOUN
+classroom/NOUN napkin/NOUN
+shield/NOUN stall/NOUN
+lap/NOUN ball/NOUN
+carpet/NOUN bottom/NOUN
+bag/NOUN bridge/NOUN
+sink/NOUN sofa/NOUN
+puck/NOUN bowl/NOUN
+hood/NOUN bruise/NOUN
+rifle/NOUN knife/NOUN
+lead/NOUN shell/NOUN
+backwards/ADV stage/NOUN
+forearm/NOUN tray/NOUN
+laser/NOUN container/NOUN
+sword/NOUN stool/NOUN
+flight/NOUN ring/NOUN
+Words in common: 1/20
+
+sex/NOUN
+Model 1 | Model 2
+sex/NOUN sex/NOUN
+money/NOUN plan/NOUN
+lunch/NOUN choice/NOUN
+strategy/NOUN medicine/NOUN
+talk/NOUN idea/NOUN
+nightmare/NOUN girlfriend/NOUN
+pasta/NOUN papa/NOUN
+save/VERB talk/NOUN
+technology/NOUN marriage/NOUN
+company/NOUN fun/NOUN
+direct/ADJ roommate/NOUN
+break/NOUN work/NOUN
+relationship/NOUN detail/NOUN
+choice/NOUN sealing/NOUN
+plenty/NOUN doubt/NOUN
+project/NOUN inspiration/NOUN
+birthday/NOUN fate/NOUN
+class/NOUN law/NOUN
+wonderful/ADJ family/NOUN
+timing/NOUN faith/NOUN
+Words in common: 3/20
+
+fuck/VERB
+Model 1 | Model 2
+fuck/VERB fuck/VERB
+got/VERB mess/VERB
+buddy/NOUN pack/VERB
+excuse/VERB trust/VERB
+hurry/VERB hurry/VERB
+patch/VERB practice/VERB
+end/VERB quit/VERB
+y/PRON wake/VERB
+mess/VERB cuddle/VERB
+wake/VERB chat/VERB
+yep/INTJ fire/VERB
+hi/INTJ texte/VERB
+screw/VERB tell/VERB
+hey/VERB screw/VERB
+damn/VERB date/VERB
+dunno/VERB shut/VERB
+hey/INTJ clean/VERB
+dude/NOUN flirt/VERB
+show/VERB let/AUX
+thank/VERB fumble/VERB
+Words in common: 5/20
+
+fuck/INTJ
+Model 1 | Model 2
+fuck/INTJ fuck/INTJ
+shit/INTJ nope/INTJ
+christ/INTJ sorry/INTJ
+wow/INTJ er/INTJ
+right/INTJ nah/INTJ
+ugh/INTJ yep/INTJ
+nah/INTJ mm/INTJ
+damn/INTJ okay/INTJ
+yeah/INTJ jeez/INTJ
+“/AUX sure/INTJ
+huh/INTJ hey/INTJ
+ah/INTJ right/INTJ
+yes/INTJ ah/INTJ
+yep/INTJ yeah/INTJ
+oh/INTJ ha/INTJ
+hey/INTJ aw/INTJ
+man/INTJ hi/INTJ
+hm/INTJ shit/INTJ
+sorry/INTJ damn/INTJ
+sir/NOUN ugh/INTJ
+Words in common: 11/20
+
+fuck/NOUN
+Model 1 | Model 2
+fuck/NOUN fuck/NOUN
+hell/NOUN hell/NOUN
+breakfast/NOUN bastard/NOUN
+bug/VERB guy/NOUN
+hmm/INTJ pharaoh/NOUN
+test/NOUN planet/NOUN
+texte/VERB earth/NOUN
+recall/VERB you-/PRON
+pasta/NOUN guild/NOUN
+troll/NOUN opposite/NOUN
+exactly/ADV undo/VERB
+wrong/ADJ basic/NOUN
+weather/NOUN privacy/NOUN
+song/NOUN heir/NOUN
+today/NOUN shut/VERB
+brat/NOUN disturb/VERB
+folk/NOUN beginning/NOUN
+news/NOUN house/NOUN
+hearty/ADJ main/ADJ
+desire/VERB wrong/ADJ
+Words in common: 3/20
+
+scare/VERB
+Model 1 | Model 2
+scare/VERB scare/VERB
+sort/VERB invite/VERB
+get/VERB harm/VERB
+sell/VERB push/VERB
+block/VERB undo/VERB
+vodka/NOUN rip/VERB
+transfer/VERB pry/VERB
+think/VERB spare/VERB
+execute/VERB storm/VERB
+witness/VERB commit/VERB
+rip/VERB feed/VERB
+appreciate/VERB back/VERB
+capture/VERB piss/VERB
+explode/VERB encourage/VERB
+handle/VERB drag/VERB
+peel/VERB murder/VERB
+kinda/ADV clean/VERB
+bug/VERB witness/VERB
+knock/VERB upset/VERB
+destroy/VERB celebrate/VERB
+Words in common: 3/20
+
+killer/NOUN
+Model 1 | Model 2
+killer/NOUN killer/NOUN
+bounty/NOUN warrior/NOUN
+park/NOUN mystery/NOUN
+witch/NOUN result/NOUN
+murder/NOUN competition/NOUN
+stand/NOUN show/NOUN
+magical/ADJ ninja/NOUN
+coffin/NOUN library/NOUN
+up/NOUN combination/NOUN
+major/NOUN genius/NOUN
+steel/NOUN phrase/NOUN
+heap/NOUN popular/ADJ
+crack/NOUN thousand/NUM
+standard/ADJ nation/NOUN
+forest/NOUN news/NOUN
+god/NOUN blow/NOUN
+clearing/NOUN unlike/ADP
+hole/NOUN rare/ADJ
+like/ADJ foreign/ADJ
+fight/NOUN fifteen/NUM
+Words in common: 1/20
+
+attack/VERB
+Model 1 | Model 2
+attack/VERB attack/VERB
+hunt/VERB date/VERB
+date/VERB offend/VERB
+notice/VERB hurry/VERB
+discover/VERB manipulate/VERB
+register/VERB kill/VERB
+capture/VERB encourage/VERB
+defeat/VERB cook/VERB
+dodge/VERB fight/VERB
+react/VERB eat/VERB
+tell/VERB panic/VERB
+join/VERB feed/VERB
+marry/VERB pick/VERB
+trust/VERB win/VERB
+destroy/VERB sleep/VERB
+survive/VERB fire/VERB
+kidnap/VERB heal/VERB
+spot/VERB trust/VERB
+taunt/VERB undo/VERB
+encourage/VERB comfort/VERB
+Words in common: 4/20
+
+attack/NOUN
+Model 1 | Model 2
+attack/NOUN attack/NOUN
+basis/NOUN thump/VERB
+account/NOUN beat/NOUN
+victim/NOUN panic/NOUN
+matter/NOUN pound/VERB
+atmosphere/NOUN skip/VERB
+knock/NOUN spike/NOUN
+argument/NOUN constant/ADJ
+uniform/NOUN ache/VERB
+explosion/NOUN cage/NOUN
+battle/NOUN childish/ADJ
+crash/NOUN produce/VERB
+site/NOUN grimace/NOUN
+show/NOUN scowl/NOUN
+presence/NOUN rate/NOUN
+assault/NOUN terror/NOUN
+item/NOUN wave/NOUN
+colony/NOUN success/NOUN
+retreat/NOUN scream/NOUN
+reaction/NOUN massive/ADJ
+Words in common: 1/20
+
+bullshit/NOUN
+Model 1 | Model 2
+bullshit/NOUN bullshit/NOUN
+hilarious/ADJ disgusting/ADJ
+opinion/NOUN tradition/NOUN
+principal/NOUN monster/NOUN
+pasta/NOUN brat/NOUN
+adorable/ADJ planet/NOUN
+fault/NOUN bastard/NOUN
+birthday/NOUN goal/NOUN
+schedule/NOUN trash/NOUN
+aid/NOUN statement/NOUN
+either/ADV joke/NOUN
+delicious/ADJ secret/NOUN
+luckily/ADV mess/NOUN
+awesome/ADJ exception/NOUN
+issue/NOUN asshole/NOUN
+suit/NOUN cake/NOUN
+notebook/NOUN problem/NOUN
+technology/NOUN purpose/NOUN
+murder/NOUN need/NOUN
+stuff/NOUN confession/NOUN
+Words in common: 1/20
+
+spider/NOUN
+Model 1 | Model 2
+spider/NOUN spider/NOUN
+classroom/NOUN crown/NOUN
+knight/NOUN stool/NOUN
+strap/NOUN puzzle/NOUN
+inside/NOUN carpet/NOUN
+dirt/NOUN shelf/NOUN
+egg/NOUN background/NOUN
+sun/NOUN belly/NOUN
+virus/NOUN content/NOUN
+half/NOUN podium/NOUN
+rope/NOUN heel/NOUN
+standard/ADJ ticket/NOUN
+field/NOUN stair/NOUN
+league/NOUN sofa/NOUN
+tool/NOUN court/NOUN
+clearing/NOUN reflection/NOUN
+gift/NOUN shore/NOUN
+sensation/NOUN cake/NOUN
+chain/NOUN dish/NOUN
+king/NOUN hook/NOUN
+Words in common: 1/20
+
+die/VERB
+Model 1 | Model 2
+die/VERB die/VERB
+endure/VERB kill/VERB
+kill/VERB hunt/VERB
+rescue/VERB murder/VERB
+fear/VERB forgive/VERB
+sleep/VERB text/VERB
+forgive/VERB save/VERB
+escape/VERB win/VERB
+judge/VERB fight/VERB
+slow/ADV date/VERB
+mock/VERB protect/VERB
+understand/VERB destroy/VERB
+shower/VERB marry/VERB
+betray/VERB join/VERB
+master/VERB train/VERB
+anywhere/ADV get/AUX
+react/VERB fucking/INTJ
+trust/NOUN invite/VERB
+promise/VERB encourage/VERB
+determine/VERB scare/VERB
+Words in common: 3/20
+
+fucking/ADJ
+Model 1 | Model 2
+fucking/ADJ fucking/ADJ
+bitch/NOUN drinking/NOUN
+unicorn/NOUN poor/ADJ
+pasta/NOUN shitty/ADJ
+deal/NOUN got/VERB
+birthday/NOUN confession/NOUN
+awesome/ADJ hmm/INTJ
+nasty/ADJ wedding/NOUN
+smart/ADJ pool/NOUN
+sweet/ADJ freak/NOUN
+funny/ADJ romantic/ADJ
+cat/NOUN wolf/NOUN
+term/NOUN chemistry/NOUN
+stupid/ADJ privacy/NOUN
+major/NOUN bear/NOUN
+real/ADJ secret/ADJ
+girlfriend/NOUN excellent/ADJ
+timing/NOUN pervert/NOUN
+dumb/ADJ great/ADJ
+great/ADJ trash/NOUN
+Words in common: 2/20
+
+fucking/INTJ
+Model 1 | Model 2
+fucking/INTJ fucking/INTJ
+dare/VERB let/AUX
+please/INTJ kid/VERB
+kid/VERB na/PART
+bother/VERB date/VERB
+n’t/AUX gon/PART
+punish/VERB tutor/VERB
+wanna/AUX ya/PRON
+mean/VERB get/AUX
+excuse/VERB you-/PRON
+hurt/VERB please/VERB
+suppose/VERB ’re/AUX
+god/INTJ propose/VERB
+mind/VERB ’m/AUX
+wo/AUX na/AUX
+really/ADV properly/ADV
+mock/VERB myself/PRON
+blame/VERB willing/ADJ
+recall/VERB nobody/PRON
+deny/VERB go/VERB
+Words in common: 2/20
+
+money/NOUN
+Model 1 | Model 2
+money/NOUN money/NOUN
+technology/NOUN trouble/NOUN
+news/NOUN plan/NOUN
+sex/NOUN fun/NOUN
+advice/NOUN help/NOUN
+company/NOUN use/NOUN
+country/NOUN faith/NOUN
+purpose/NOUN request/NOUN
+food/NOUN mine/PRON
+timing/NOUN drink/NOUN
+term/NOUN talent/NOUN
+business/NOUN girlfriend/NOUN
+project/NOUN fate/NOUN
+condition/NOUN potential/NOUN
+talk/NOUN sealing/NOUN
+luck/NOUN damage/NOUN
+extra/ADJ breakfast/NOUN
+recipe/NOUN right/NOUN
+aid/NOUN food/NOUN
+gas/NOUN writing/NOUN
+Words in common: 2/20
+
+alarm/NOUN
+Model 1 | Model 2
+alarm/NOUN alarm/NOUN
+shock/NOUN sink/NOUN
+cage/NOUN guest/NOUN
+frustration/NOUN ball/NOUN
+irritation/NOUN shrine/NOUN
+dim/ADJ stage/NOUN
+wheelchair/NOUN center/NOUN
+liquid/NOUN kitchen/NOUN
+doorway/NOUN doorway/NOUN
+flame/NOUN notebook/NOUN
+rifle/NOUN entrance/NOUN
+amber/NOUN gym/NOUN
+vat/NOUN airport/NOUN
+chamber/NOUN search/NOUN
+tile/NOUN tv/NOUN
+excitement/NOUN cover/NOUN
+curtain/NOUN guild/NOUN
+wheel/NOUN process/NOUN
+darkness/NOUN wood/NOUN
+gym/NOUN shell/NOUN
+Words in common: 3/20
+
+dangerous/ADJ
+Model 1 | Model 2
+dangerous/ADJ dangerous/ADJ
+useful/ADJ complicated/ADJ
+confusing/ADJ smart/ADJ
+smart/ADJ gross/ADJ
+scared/ADJ surprisingly/ADV
+intense/ADJ powerful/ADJ
+specific/ADJ terrifying/ADJ
+suspicious/ADJ kind/ADJ
+expensive/ADJ useful/ADJ
+simple/ADJ russian/ADJ
+jerk/NOUN offended/ADJ
+highly/ADV importantly/ADV
+strong/ADJ dumb/ADJ
+broken/ADJ friendly/ADJ
+powerful/ADJ popular/ADJ
+obvious/ADJ painful/ADJ
+lonely/ADJ frankly/ADV
+impressive/ADJ funny/ADJ
+evil/ADJ it/VERB
+trial/NOUN fun/ADJ
+Words in common: 4/20
+
+rich/ADJ
+Model 1 | Model 2
+rich/ADJ rich/ADJ
+murder/NOUN useless/ADJ
+dramatic/ADJ style/NOUN
+harsh/ADJ wary/ADJ
+tough/ADJ smart/ADJ
+sweet/ADJ million/NUM
+early/ADJ excellent/ADJ
+confusing/ADJ dead/ADJ
+clever/ADJ fighting/NOUN
+delicious/ADJ pack/NOUN
+intense/ADJ bunch/NOUN
+steel/NOUN delicate/ADJ
+fast/ADJ talented/ADJ
+clumsy/ADJ ishvalan/ADJ
+term/NOUN horrible/ADJ
+jerk/NOUN ninja/NOUN
+trick/NOUN capable/ADJ
+schedule/NOUN brilliant/ADJ
+steady/ADJ fluffy/ADJ
+specific/ADJ sweet/ADJ
+Words in common: 2/20
+
+kill/VERB
+Model 1 | Model 2
+kill/VERB kill/VERB
+murder/VERB murder/VERB
+protect/VERB forgive/VERB
+trust/VERB tell/VERB
+steal/VERB feed/VERB
+forgive/VERB save/VERB
+rescue/VERB die/VERB
+die/VERB tutor/VERB
+guarantee/VERB fight/VERB
+tell/VERB texte/VERB
+escape/VERB date/VERB
+expect/VERB ground/VERB
+mock/VERB convince/VERB
+save/VERB join/VERB
+react/VERB protect/VERB
+blame/VERB trust/VERB
+dare/VERB teach/VERB
+betray/VERB attack/VERB
+prefer/VERB comfort/VERB
+care/VERB hurt/VERB
+Words in common: 8/20
+
+speed/NOUN
+Model 1 | Model 2
+speed/NOUN speed/NOUN
+stage/NOUN reflection/NOUN
+station/NOUN bottom/NOUN
+accelerate/VERB stair/NOUN
+stand/NOUN news/NOUN
+console/NOUN majority/NOUN
+beam/NOUN stall/NOUN
+sink/NOUN fabric/NOUN
+market/NOUN edge/NOUN
+maximum/ADJ knowledge/NOUN
+height/NOUN connection/NOUN
+screen/NOUN drawing/NOUN
+circle/VERB center/NOUN
+flame/NOUN bridge/NOUN
+collar/NOUN shell/NOUN
+earth/NOUN brim/NOUN
+panel/NOUN dust/NOUN
+crack/NOUN dirt/NOUN
+bruise/NOUN rest/NOUN
+capacity/NOUN phrase/NOUN
+Words in common: 1/20
+
+High-arousal words in common: 61/400
+
+Words with lowest arousal:
+calm/ADJ
+Model 1 | Model 2
+calm/ADJ calm/ADJ
+pout/VERB nervous/ADJ
+plead/VERB quiet/ADJ
+whine/VERB painful/ADJ
+stiff/ADJ friendly/ADJ
+angry/ADJ steady/ADJ
+unexpected/ADJ talented/ADJ
+optimistic/ADJ lost/ADJ
+genuine/ADJ pretty/ADJ
+accuse/VERB still/ADJ
+shocked/ADJ fragile/ADJ
+anticipation/NOUN patient/ADJ
+delight/NOUN useless/ADJ
+singe/VERB loud/ADJ
+uncomfortable/ADJ strong/ADJ
+jerk/NOUN smart/ADJ
+exclaim/VERB cheerful/ADJ
+gulp/VERB painfully/ADV
+whisper/VERB casual/ADJ
+confused/ADJ limb/NOUN
+Words in common: 1/20
+
+dull/ADJ
+Model 1 | Model 2
+dull/ADJ dull/ADJ
+silver/ADJ center/NOUN
+peaceful/ADJ wood/NOUN
+light/ADJ blue/NOUN
+constant/ADJ sunlight/NOUN
+rough/ADJ ache/NOUN
+pure/ADJ lock/NOUN
+pile/NOUN shade/NOUN
+giant/ADJ river/NOUN
+fresh/ADJ red/NOUN
+thin/ADJ sea/NOUN
+blank/ADJ lump/NOUN
+crystal/NOUN silk/NOUN
+wild/ADJ smoke/NOUN
+goddamn/ADJ breeze/NOUN
+plastic/ADJ rush/NOUN
+amber/NOUN awe/NOUN
+halt/NOUN glow/NOUN
+regular/ADJ background/NOUN
+deadly/ADJ spike/NOUN
+Words in common: 1/20
+
+calm/VERB
+Model 1 | Model 2
+calm/VERB calm/VERB
+slow/VERB correct/VERB
+track/VERB weigh/VERB
+wipe/VERB hunt/VERB
+brace/VERB track/VERB
+occasionally/ADV swallow/VERB
+free/VERB reassure/VERB
+clamp/VERB steel/VERB
+choke/VERB fight/VERB
+withdraw/VERB will/VERB
+force/VERB gulp/VERB
+pin/VERB support/VERB
+set/VERB desperately/ADV
+write/VERB urge/VERB
+prop/VERB defend/VERB
+express/VERB snicker/VERB
+settle/VERB stop/VERB
+smooth/VERB temple/NOUN
+cheer/VERB plop/VERB
+sing/VERB chew/VERB
+Words in common: 2/20
+
+quiet/ADJ
+Model 1 | Model 2
+quiet/ADJ quiet/ADJ
+confusing/ADJ loud/ADJ
+loud/ADJ calm/ADJ
+silent/ADJ warm/ADJ
+rare/ADJ weak/ADJ
+dramatic/ADJ harsh/ADJ
+weak/ADJ still/ADJ
+funny/ADJ slow/ADJ
+soft/ADJ painful/ADJ
+grateful/ADJ delighted/ADJ
+compliment/NOUN pleasant/ADJ
+difficult/ADJ silent/ADJ
+nearby/ADV wonderful/ADJ
+stiff/ADJ steady/ADJ
+pathetic/ADJ soft/ADJ
+tense/ADJ rough/ADJ
+subtle/ADJ useless/ADJ
+harsh/ADJ friendly/ADJ
+stern/ADJ smart/ADJ
+frustrated/ADJ startle/VERB
+Words in common: 6/20
+
+scene/NOUN
+Model 1 | Model 2
+scene/NOUN scene/NOUN
+horizon/NOUN rooftop/NOUN
+ceiling/NOUN shelf/NOUN
+crowd/NOUN bottom/NOUN
+ground/NOUN meeting/NOUN
+sensation/NOUN phrase/NOUN
+reality/NOUN knock/NOUN
+river/NOUN shrine/NOUN
+gym/NOUN array/NOUN
+bottom/NOUN blow/NOUN
+file/NOUN act/NOUN
+castle/NOUN exception/NOUN
+cold/NOUN counter/NOUN
+hologram/NOUN tug/NOUN
+doorway/NOUN shore/NOUN
+knight/NOUN orphanage/NOUN
+monitor/NOUN tv/NOUN
+bleacher/NOUN park/NOUN
+galaxy/NOUN hit/NOUN
+roof/NOUN stand/NOUN
+Words in common: 2/20
+
+asleep/ADJ
+Model 1 | Model 2
+asleep/ADJ asleep/ADJ
+silent/ADJ snow/NOUN
+apart/ADV silent/ADJ
+alive/ADJ awake/ADJ
+everywhere/ADV backwards/ADV
+trap/VERB succeed/VERB
+awake/ADJ alive/ADJ
+defeat/VERB apart/ADV
+terrified/ADJ alone/ADJ
+comfort/VERB observe/VERB
+nearly/ADV spirit/NOUN
+naturally/ADV there/ADV
+prepared/ADJ love/NOUN
+unfamiliar/ADJ scowl/VERB
+violently/ADV relatively/ADV
+rise/VERB sing/VERB
+crouch/VERB naked/ADJ
+naked/ADJ halfway/ADV
+through/ADV wake/VERB
+on/ADV body/NOUN
+Words in common: 6/20
+
+tea/NOUN
+Model 1 | Model 2
+tea/NOUN tea/NOUN
+analysis/NOUN privacy/NOUN
+schematic/NOUN pancake/NOUN
+schedule/NOUN dress/NOUN
+cocoa/NOUN sugar/NOUN
+pressure/NOUN mug/NOUN
+mug/NOUN pack/NOUN
+country/NOUN reading/NOUN
+bridge/NOUN animal/NOUN
+vodka/NOUN cup/NOUN
+roof/NOUN shake/NOUN
+wine/NOUN up/NOUN
+habit/NOUN nightmare/NOUN
+fabric/NOUN credit/NOUN
+parameter/NOUN supply/NOUN
+value/NOUN latte/NOUN
+nature/NOUN breakfast/NOUN
+cowl/NOUN fruit/NOUN
+scan/NOUN ticket/NOUN
+tip/NOUN help/NOUN
+Words in common: 2/20
+
+level/NOUN
+Model 1 | Model 2
+level/NOUN level/NOUN
+sixth/ADJ standard/NOUN
+section/NOUN display/NOUN
+raiding/NOUN master/NOUN
+overall/ADJ appearance/NOUN
+core/NOUN range/NOUN
+maximum/ADJ affection/NOUN
+op/NOUN success/NOUN
+basis/NOUN subject/NOUN
+operation/NOUN event/NOUN
+military/ADJ view/NOUN
+quality/NOUN honor/NOUN
+channel/NOUN grasp/NOUN
+scale/NOUN location/NOUN
+grade/NOUN secret/ADJ
+run/NOUN shade/NOUN
+minor/ADJ combination/NOUN
+dance/NOUN threat/NOUN
+schematic/NOUN former/ADJ
+hit/NOUN symbol/NOUN
+Words in common: 1/20
+
+title/NOUN
+Model 1 | Model 2
+title/NOUN title/NOUN
+absence/NOUN arrival/NOUN
+sensation/NOUN honor/NOUN
+uniform/NOUN standard/NOUN
+memory/NOUN leader/NOUN
+hologram/NOUN nurse/NOUN
+chaos/NOUN design/NOUN
+past/NOUN crew/NOUN
+beginning/NOUN guild/NOUN
+object/NOUN memory/NOUN
+source/NOUN field/NOUN
+footage/NOUN name/NOUN
+taste/NOUN request/NOUN
+shower/NOUN safety/NOUN
+field/NOUN career/NOUN
+galaxy/NOUN facility/NOUN
+outfit/NOUN reaction/NOUN
+fate/NOUN strip/VERB
+rain/NOUN locate/VERB
+cost/NOUN senior/ADJ
+Words in common: 3/20
+
+area/NOUN
+Model 1 | Model 2
+area/NOUN area/NOUN
+courtyard/NOUN ruin/NOUN
+building/NOUN cold/NOUN
+tower/NOUN street/NOUN
+atmosphere/NOUN instant/NOUN
+cave/NOUN shadow/NOUN
+alley/NOUN background/NOUN
+kitchen/NOUN center/NOUN
+street/NOUN loneliness/NOUN
+colony/NOUN situation/NOUN
+gym/NOUN world/NOUN
+warehouse/NOUN river/NOUN
+galaxy/NOUN star/NOUN
+storm/NOUN future/NOUN
+folk/NOUN sea/NOUN
+queue/NOUN hospital/NOUN
+period/NOUN process/NOUN
+midst/NOUN sand/NOUN
+forest/NOUN facility/NOUN
+castle/NOUN garden/NOUN
+Words in common: 2/20
+
+low/ADJ
+Model 1 | Model 2
+low/ADJ low/ADJ
+thin/ADJ bottom/ADJ
+soft/ADJ soft/ADJ
+loud/ADJ dry/ADJ
+rough/ADJ thin/ADJ
+sharp/ADJ light/ADJ
+surprisingly/ADV childish/ADJ
+clearing/NOUN steady/ADJ
+mild/ADJ part/VERB
+dull/ADJ quiet/ADJ
+steady/ADJ cheerful/ADJ
+faint/ADJ smooth/ADJ
+etch/VERB chuckle/NOUN
+intense/ADJ hollow/ADJ
+constant/ADJ tight/ADJ
+sixth/ADJ firm/ADJ
+female/ADJ hushed/ADJ
+firm/ADJ purse/VERB
+warm/ADJ daily/ADJ
+lock/NOUN loud/ADJ
+Words in common: 6/20
+
+blanket/NOUN
+Model 1 | Model 2
+blanket/NOUN blanket/NOUN
+towel/NOUN pillow/NOUN
+bandage/NOUN towel/NOUN
+rope/NOUN bridge/NOUN
+hood/NOUN notebook/NOUN
+cover/NOUN sweater/NOUN
+curve/NOUN bag/NOUN
+lid/NOUN pencil/NOUN
+puck/NOUN mug/NOUN
+grape/NOUN jacket/NOUN
+corner/NOUN ball/NOUN
+strand/NOUN sheet/NOUN
+sink/NOUN tip/NOUN
+pillow/NOUN wood/NOUN
+curtain/NOUN cover/NOUN
+rifle/NOUN napkin/NOUN
+chair/NOUN chopstick/NOUN
+hat/NOUN silk/NOUN
+thumb/NOUN fabric/NOUN
+bridge/NOUN fingertip/NOUN
+Words in common: 5/20
+
+lack/NOUN
+Model 1 | Model 2
+lack/NOUN lack/NOUN
+version/NOUN physical/ADJ
+size/NOUN unexpected/ADJ
+gift/NOUN stretch/NOUN
+shade/NOUN majority/NOUN
+impact/NOUN amount/NOUN
+loss/NOUN handful/NOUN
+series/NOUN suit/NOUN
+habit/NOUN smell/NOUN
+taste/NOUN roar/NOUN
+display/NOUN horrible/ADJ
+bunch/NOUN branch/NOUN
+curve/NOUN layer/NOUN
+schematic/NOUN absence/NOUN
+benefit/NOUN endless/ADJ
+set/NOUN stress/NOUN
+start/NOUN comfort/NOUN
+bowl/NOUN sensation/NOUN
+midst/NOUN loss/NOUN
+half/NOUN negative/ADJ
+Words in common: 2/20
+
+empty/ADJ
+Model 1 | Model 2
+empty/ADJ empty/ADJ
+throne/NOUN near/ADJ
+large/ADJ hospital/NOUN
+nearby/ADJ wooden/ADJ
+dim/ADJ outdoor/ADJ
+icy/ADJ building/NOUN
+living/NOUN gym/NOUN
+gym/NOUN living/NOUN
+station/NOUN floor/NOUN
+amber/NOUN sea/NOUN
+dorm/NOUN enormous/ADJ
+vulnerable/ADJ opposite/ADJ
+darken/VERB back/ADJ
+trapeze/NOUN ceiling/NOUN
+north/NOUN tree/NOUN
+monitor/NOUN center/NOUN
+endless/ADJ far/ADJ
+alley/NOUN clean/ADJ
+data/NOUN top/ADJ
+principal/NOUN salty/ADJ
+Words in common: 3/20
+
+rest/NOUN
+Model 1 | Model 2
+rest/NOUN rest/NOUN
+depth/NOUN majority/NOUN
+credit/NOUN desert/NOUN
+league/NOUN most/ADJ
+meaning/NOUN location/NOUN
+puck/NOUN meaning/NOUN
+egg/NOUN basic/NOUN
+consequence/NOUN ruin/NOUN
+vat/NOUN consequence/NOUN
+analysis/NOUN none/NOUN
+safety/NOUN bottom/NOUN
+content/NOUN cause/NOUN
+sand/NOUN tip/NOUN
+datum/NOUN news/NOUN
+mountain/NOUN bell/NOUN
+most/ADJ soldier/NOUN
+gift/NOUN session/NOUN
+rid/VERB journey/NOUN
+holiday/NOUN stair/NOUN
+curve/NOUN career/NOUN
+Words in common: 4/20
+
+rest/VERB
+Model 1 | Model 2
+rest/VERB rest/VERB
+lay/VERB prop/VERB
+balance/VERB place/VERB
+hang/VERB tilt/VERB
+clamp/VERB kiss/VERB
+hold/VERB cup/VERB
+put/VERB plop/VERB
+plant/VERB lift/VERB
+curl/VERB rub/VERB
+dip/VERB bang/VERB
+clap/VERB slice/VERB
+place/VERB slump/VERB
+touch/VERB tip/VERB
+settle/VERB flop/VERB
+press/VERB curve/VERB
+slap/VERB pat/VERB
+shake/VERB examine/VERB
+bind/VERB low/ADV
+trace/VERB dip/VERB
+yank/VERB strain/VERB
+Words in common: 3/20
+
+rib/NOUN
+Model 1 | Model 2
+rib/NOUN rib/NOUN
+grandson/NOUN palm/NOUN
+chest/NOUN pillow/NOUN
+face/NOUN temple/NOUN
+stomach/NOUN knuckle/NOUN
+cheek/NOUN ear/NOUN
+heart/NOUN fingertip/NOUN
+fingertip/NOUN thigh/NOUN
+skin/NOUN forehead/NOUN
+ear/NOUN chest/NOUN
+ankle/NOUN knee/NOUN
+neck/NOUN heel/NOUN
+knuckle/NOUN hip/NOUN
+thigh/NOUN belly/NOUN
+frustration/NOUN forearm/NOUN
+pulse/NOUN mattress/NOUN
+pain/NOUN lap/NOUN
+back/NOUN back/NOUN
+shoulder/NOUN sand/NOUN
+robe/NOUN sharply/ADV
+Words in common: 7/20
+
+normal/ADJ
+Model 1 | Model 2
+normal/ADJ normal/ADJ
+fun/ADJ ridiculous/ADJ
+obvious/ADJ funny/ADJ
+public/ADJ boring/ADJ
+matter/VERB human/ADJ
+clear/ADJ fair/ADJ
+precious/ADJ scary/ADJ
+different/ADJ special/ADJ
+true/ADJ unusual/ADJ
+confusing/ADJ interesting/ADJ
+ridiculous/ADJ different/ADJ
+worth/ADJ shame/NOUN
+important/ADJ casual/ADJ
+dangerous/ADJ stubborn/ADJ
+cost/VERB natural/ADJ
+unexpected/ADJ fun/ADJ
+selfish/ADJ gift/NOUN
+impressive/ADJ important/ADJ
+spring/NOUN sensitive/ADJ
+bad/ADJ popular/ADJ
+Words in common: 5/20
+
+shirt/NOUN
+Model 1 | Model 2
+shirt/NOUN shirt/NOUN
+backpack/NOUN jacket/NOUN
+pant/NOUN coat/NOUN
+boxer/NOUN sleeve/NOUN
+helmet/NOUN glove/NOUN
+glove/NOUN thigh/NOUN
+suit/NOUN sweater/NOUN
+purple/ADJ lock/NOUN
+sweaty/ADJ forearm/NOUN
+nail/NOUN shoe/NOUN
+jean/NOUN scowl/NOUN
+damp/ADJ feature/NOUN
+bow/NOUN boot/NOUN
+collar/NOUN knuckle/NOUN
+candy/NOUN bang/NOUN
+leather/NOUN frame/NOUN
+pen/NOUN suit/NOUN
+smooth/VERB underwear/NOUN
+hood/NOUN chopstick/NOUN
+jacket/NOUN cheek/NOUN
+Words in common: 4/20
+
+count/VERB
+Model 1 | Model 2
+count/VERB count/VERB
+fix/VERB matter/VERB
+track/VERB respond/VERB
+react/VERB please/VERB
+blame/VERB react/VERB
+bring/VERB accept/VERB
+rely/VERB official/ADJ
+solve/VERB win/VERB
+answer/VERB exist/VERB
+stir/VERB appreciate/VERB
+skate/VERB imagine/VERB
+celebrate/VERB use/VERB
+recognize/VERB read/VERB
+lie/VERB sell/VERB
+focus/VERB remember/VERB
+show/VERB mind/VERB
+sell/VERB recognize/VERB
+trust/VERB blame/VERB
+understand/VERB protest/VERB
+work/VERB dare/VERB
+Words in common: 5/20
+
+Low-arousal words in common: 70/400
+
+Words with highest dominance:
+win/VERB
+Model 1 | Model 2
+win/VERB win/VERB
+believe/VERB defeat/VERB
+discover/VERB invite/VERB
+solve/VERB witness/VERB
+react/VERB assume/VERB
+tell/VERB celebrate/VERB
+join/VERB join/VERB
+imagine/VERB play/VERB
+accept/VERB accept/VERB
+destroy/VERB annoy/VERB
+control/VERB seek/VERB
+figure/VERB owe/VERB
+understand/VERB buy/VERB
+accomplish/VERB kill/VERB
+register/VERB commit/VERB
+enjoy/VERB die/VERB
+handle/VERB name/VERB
+assume/VERB survive/VERB
+apologize/VERB sense/VERB
+mention/VERB personally/ADV
+Words in common: 4/20
+
+self/NOUN
+Model 1 | Model 2
+self/NOUN self/NOUN
+son/NOUN conscious/ADJ
+sibling/NOUN constant/ADJ
+memory/NOUN happiness/NOUN
+under/ADV up/NOUN
+mentor/NOUN mate/NOUN
+sister/NOUN forty/NUM
+near/ADV sibling/NOUN
+grief/NOUN hate/NOUN
+conscious/ADJ foreign/ADJ
+bone/NOUN sugar/NOUN
+pod/NOUN precious/ADJ
+sleeve/NOUN short/ADV
+nail/NOUN quirk/NOUN
+mane/NOUN being/NOUN
+lekku/NOUN doubt/NOUN
+master/NOUN comfort/NOUN
+wrist/NOUN cage/NOUN
+newly/ADV control/NOUN
+hero/NOUN like/ADJ
+Words in common: 3/20
+
+smile/NOUN
+Model 1 | Model 2
+smile/NOUN smile/NOUN
+grin/NOUN grin/NOUN
+frown/NOUN smirk/NOUN
+smirk/NOUN expression/NOUN
+expression/NOUN frown/NOUN
+blush/NOUN laugh/NOUN
+nod/NOUN look/NOUN
+laugh/NOUN blush/NOUN
+chuckle/NOUN sigh/NOUN
+gasp/NOUN wave/NOUN
+look/NOUN hum/NOUN
+heel/NOUN huff/NOUN
+faintly/ADV chuckle/NOUN
+jaw/NOUN tone/NOUN
+tone/NOUN nod/NOUN
+glare/NOUN bow/NOUN
+gentle/ADJ face/NOUN
+groan/NOUN forearm/NOUN
+huff/NOUN feature/NOUN
+friendly/ADJ grunt/NOUN
+Words in common: 12/20
+
+smile/VERB
+Model 1 | Model 2
+smile/VERB smile/VERB
+grin/VERB grin/VERB
+chuckle/VERB beam/VERB
+beam/VERB pout/VERB
+laugh/VERB brightly/ADV
+frown/VERB laugh/VERB
+cringe/VERB scowl/VERB
+smirk/VERB frown/VERB
+hiss/VERB sweetly/ADV
+moan/VERB stare/VERB
+grunt/VERB smirk/VERB
+sigh/VERB scoff/VERB
+wince/VERB glance/VERB
+exhale/VERB sadly/ADV
+snort/VERB glower/VERB
+sniff/VERB glare/VERB
+nod/VERB blink/VERB
+wink/VERB chuckle/VERB
+grimace/VERB snort/VERB
+giggle/VERB softly/ADV
+Words in common: 8/20
+
+kind/ADJ
+Model 1 | Model 2
+kind/ADJ kind/ADJ
+confusing/ADJ smart/ADJ
+nervous/ADJ cruel/ADJ
+fast/ADJ mean/ADJ
+subtle/ADJ dumb/ADJ
+shy/ADJ talented/ADJ
+annoying/ADJ cool/ADJ
+exhausted/ADJ complicated/ADJ
+scared/ADJ sweet/ADJ
+determined/ADJ frankly/ADV
+polite/ADJ friendly/ADJ
+weak/ADJ dangerous/ADJ
+difficult/ADJ transmutation/NOUN
+dumb/ADJ popular/ADJ
+pleased/ADJ loud/ADJ
+strong/ADJ unfair/ADJ
+worried/ADJ relieved/ADJ
+comforting/ADJ basically/ADV
+pleasant/ADJ utterly/ADV
+comfortable/ADJ patient/ADJ
+Words in common: 2/20
+
+kind/ADV
+Model 1 | Model 2
+kind/ADV kind/ADV
+sort/ADV sort/ADV
+course/ADV kinda/ADV
+awesome/ADJ endearing/ADJ
+of/ADV unfair/ADJ
+impressed/ADJ course/ADV
+complicated/ADJ of/ADV
+curious/ADJ ridiculous/ADJ
+cute/ADJ impressed/ADJ
+kinda/ADV funny/ADJ
+fool/NOUN amazing/ADJ
+really/ADV totally/ADV
+crazy/ADJ horribly/ADV
+important/ADJ cute/ADJ
+funny/ADJ offended/ADJ
+pretty/ADV oddly/ADV
+scared/ADJ fairly/ADV
+totally/ADV adorable/ADJ
+suck/VERB pretty/ADV
+pathetic/ADJ super/ADV
+Words in common: 10/20
+
+kind/NOUN
+Model 1 | Model 2
+kind/NOUN kind/NOUN
+sort/NOUN sort/NOUN
+act/NOUN field/NOUN
+combination/NOUN smell/NOUN
+animal/NOUN opposite/NOUN
+part/NOUN danger/NOUN
+significant/ADJ concept/NOUN
+series/NOUN privacy/NOUN
+huge/ADJ disease/NOUN
+start/NOUN type/NOUN
+hell/NOUN absolute/ADJ
+potential/ADJ unexpected/ADJ
+fate/NOUN wolf/NOUN
+possibility/NOUN tradition/NOUN
+extent/NOUN talk/NOUN
+poor/ADJ monster/NOUN
+effect/NOUN style/NOUN
+horrible/ADJ alchemy/NOUN
+villain/NOUN confession/NOUN
+scan/NOUN design/NOUN
+Words in common: 2/20
+
+friendly/ADJ
+Model 1 | Model 2
+friendly/ADJ friendly/ADJ
+gentle/ADJ lazy/ADJ
+frown/NOUN useless/ADJ
+fake/ADJ smart/ADJ
+loud/ADJ talented/ADJ
+constant/ADJ kind/ADJ
+rare/ADJ stubborn/ADJ
+soft/ADJ calm/ADJ
+firm/ADJ pretty/ADJ
+nod/NOUN nervous/ADJ
+mild/ADJ powerful/ADJ
+knife/NOUN dangerous/ADJ
+squeak/VERB relatively/ADV
+grin/NOUN casual/ADJ
+wary/ADJ strong/ADJ
+beautiful/ADJ popular/ADJ
+tiny/ADJ foreign/ADJ
+huff/NOUN affectionate/ADJ
+coffin/NOUN delighted/ADJ
+squeeze/NOUN genius/NOUN
+Words in common: 1/20
+
+particular/ADJ
+Model 1 | Model 2
+particular/ADJ particular/ADJ
+relationship/NOUN hatred/NOUN
+aid/NOUN special/ADJ
+wonderful/ADJ drinking/NOUN
+technology/NOUN involve/VERB
+condition/NOUN general/ADJ
+success/NOUN meeting/NOUN
+universe/NOUN support/NOUN
+fate/NOUN privacy/NOUN
+culture/NOUN exchange/NOUN
+boss/NOUN magic/NOUN
+luckily/ADV thousand/NUM
+tech/NOUN result/VERB
+code/NOUN horrible/ADJ
+measure/NOUN terrifying/ADJ
+argument/NOUN million/NUM
+respect/NOUN occasion/NOUN
+operation/NOUN awful/ADJ
+matter/NOUN disease/NOUN
+fancy/ADJ spare/ADJ
+Words in common: 1/20
+
+genuine/ADJ
+Model 1 | Model 2
+genuine/ADJ genuine/ADJ
+jerk/NOUN sheepish/ADJ
+shy/ADJ fake/ADJ
+stern/ADJ smug/ADJ
+sharp/ADJ sly/ADJ
+intense/ADJ suspicious/ADJ
+loud/ADJ brilliant/ADJ
+sad/ADJ horrible/ADJ
+simple/ADJ genius/NOUN
+delicious/ADJ endearing/ADJ
+warm/ADJ huge/ADJ
+muffled/ADJ mild/ADJ
+comforting/ADJ tiny/ADJ
+bitter/ADJ pleasant/ADJ
+gentle/ADJ danger/NOUN
+rare/ADJ thoughtful/ADJ
+harsh/ADJ comforting/ADJ
+huff/NOUN curious/ADJ
+familiar/ADJ shy/ADJ
+wary/ADJ quick/ADJ
+Words in common: 3/20
+
+style/NOUN
+Model 1 | Model 2
+style/NOUN style/NOUN
+sensor/NOUN happiness/NOUN
+fighter/NOUN cage/NOUN
+glory/NOUN kindness/NOUN
+frame/NOUN weakness/NOUN
+aid/NOUN taste/NOUN
+wow/INTJ nature/NOUN
+dear/NOUN tension/NOUN
+neighbor/NOUN sugar/NOUN
+birthday/NOUN victory/NOUN
+archive/NOUN display/NOUN
+armor/NOUN scent/NOUN
+french/ADJ damn/ADJ
+y/PRON safety/NOUN
+wife/NOUN habit/NOUN
+parameter/NOUN dream/NOUN
+schedule/NOUN success/NOUN
+type/NOUN wake/NOUN
+ah/INTJ smell/NOUN
+schematic/NOUN underwear/NOUN
+Words in common: 1/20
+
+shower/NOUN
+Model 1 | Model 2
+shower/NOUN shower/NOUN
+carpet/NOUN bite/NOUN
+roof/NOUN nap/NOUN
+chip/NOUN wind/NOUN
+sink/NOUN seat/NOUN
+shelf/NOUN sip/NOUN
+field/NOUN ball/NOUN
+cave/NOUN while/NOUN
+pillow/NOUN fall/NOUN
+lift/NOUN exam/NOUN
+car/NOUN break/NOUN
+mountain/NOUN doorway/NOUN
+kitchen/NOUN freezer/NOUN
+blow/NOUN basket/NOUN
+doorway/NOUN deep/ADJ
+ladder/NOUN cookie/NOUN
+crash/NOUN shot/NOUN
+puck/NOUN bucket/NOUN
+crate/NOUN coin/NOUN
+title/NOUN shudder/VERB
+Words in common: 2/20
+
+calm/VERB
+Model 1 | Model 2
+calm/VERB calm/VERB
+slow/VERB correct/VERB
+track/VERB weigh/VERB
+wipe/VERB hunt/VERB
+brace/VERB track/VERB
+occasionally/ADV swallow/VERB
+free/VERB reassure/VERB
+clamp/VERB steel/VERB
+choke/VERB fight/VERB
+withdraw/VERB will/VERB
+force/VERB gulp/VERB
+pin/VERB support/VERB
+set/VERB desperately/ADV
+write/VERB urge/VERB
+prop/VERB defend/VERB
+express/VERB snicker/VERB
+settle/VERB stop/VERB
+smooth/VERB temple/NOUN
+cheer/VERB plop/VERB
+sing/VERB chew/VERB
+Words in common: 2/20
+
+calm/ADJ
+Model 1 | Model 2
+calm/ADJ calm/ADJ
+pout/VERB nervous/ADJ
+plead/VERB quiet/ADJ
+whine/VERB painful/ADJ
+stiff/ADJ friendly/ADJ
+angry/ADJ steady/ADJ
+unexpected/ADJ talented/ADJ
+optimistic/ADJ lost/ADJ
+genuine/ADJ pretty/ADJ
+accuse/VERB still/ADJ
+shocked/ADJ fragile/ADJ
+anticipation/NOUN patient/ADJ
+delight/NOUN useless/ADJ
+singe/VERB loud/ADJ
+uncomfortable/ADJ strong/ADJ
+jerk/NOUN smart/ADJ
+exclaim/VERB cheerful/ADJ
+gulp/VERB painfully/ADV
+whisper/VERB casual/ADJ
+confused/ADJ limb/NOUN
+Words in common: 1/20
+
+purpose/NOUN
+Model 1 | Model 2
+purpose/NOUN purpose/NOUN
+term/NOUN weather/NOUN
+money/NOUN writing/NOUN
+gas/NOUN earth/NOUN
+site/NOUN planet/NOUN
+limit/NOUN meaning/NOUN
+campus/NOUN tv/NOUN
+capability/NOUN fate/NOUN
+deal/NOUN art/NOUN
+threat/NOUN puzzle/NOUN
+condition/NOUN bullshit/NOUN
+date/NOUN bell/NOUN
+effect/NOUN joke/NOUN
+news/NOUN sealing/NOUN
+list/NOUN nightmare/NOUN
+mercy/NOUN cake/NOUN
+social/ADJ mission/NOUN
+raiding/NOUN safety/NOUN
+crap/NOUN television/NOUN
+detail/NOUN test/NOUN
+Words in common: 1/20
+
+strength/NOUN
+Model 1 | Model 2
+strength/NOUN strength/NOUN
+ability/NOUN intention/NOUN
+version/NOUN power/NOUN
+struggle/NOUN potential/NOUN
+knowledge/NOUN will/NOUN
+violence/NOUN ability/NOUN
+courage/NOUN roommate/NOUN
+overall/ADJ struggle/NOUN
+flow/NOUN interest/NOUN
+strap/NOUN affection/NOUN
+league/NOUN right/NOUN
+kingdom/NOUN grace/NOUN
+momentum/NOUN emotion/NOUN
+drug/NOUN responsibility/NOUN
+database/NOUN control/NOUN
+reputation/NOUN failure/NOUN
+paperwork/NOUN destruction/NOUN
+honor/NOUN inspiration/NOUN
+meaning/NOUN life/NOUN
+feeling/NOUN anxiety/NOUN
+Words in common: 3/20
+
+skill/NOUN
+Model 1 | Model 2
+skill/NOUN skill/NOUN
+instinct/NOUN roommate/NOUN
+honor/NOUN confidence/NOUN
+credit/NOUN failure/NOUN
+faith/NOUN happiness/NOUN
+enemy/NOUN affection/NOUN
+record/NOUN spin/NOUN
+overall/ADJ right/NOUN
+knowledge/NOUN personal/ADJ
+kingdom/NOUN forearm/NOUN
+glory/NOUN curiosity/NOUN
+citizen/NOUN responsibility/NOUN
+code/NOUN father/NOUN
+drawing/NOUN partner/NOUN
+choice/NOUN son/NOUN
+violence/NOUN family/NOUN
+commander/NOUN increase/VERB
+condition/NOUN soul/NOUN
+reputation/NOUN comfort/NOUN
+basic/ADJ taijutsu/NOUN
+Words in common: 1/20
+
+polite/ADJ
+Model 1 | Model 2
+polite/ADJ polite/ADJ
+kind/ADJ saiyan/ADJ
+confusing/ADJ popular/ADJ
+shy/ADJ sheepish/ADJ
+smoke/VERB welcome/ADJ
+weak/ADJ terrifying/ADJ
+pleased/ADJ fun/ADJ
+tough/ADJ rude/ADJ
+impossible/ADJ fake/ADJ
+magic/ADJ shy/ADJ
+fair/ADJ useless/ADJ
+unexpected/ADJ kid/NOUN
+weird/ADJ monster/NOUN
+determined/ADJ creepy/ADJ
+painful/ADJ curious/ADJ
+cruel/ADJ cruel/ADJ
+broken/ADJ genius/NOUN
+useless/ADJ quick/ADJ
+happy/ADJ kind/ADJ
+comfortable/ADJ special/ADJ
+Words in common: 5/20
+
+responsible/ADJ
+Model 1 | Model 2
+responsible/ADJ responsible/ADJ
+schedule/VERB facility/NOUN
+prepare/VERB grateful/ADJ
+hunt/VERB witness/NOUN
+news/NOUN other/NOUN
+ground/VERB healthy/ADJ
+design/VERB occupy/VERB
+bug/VERB news/NOUN
+arrange/VERB adventure/NOUN
+test/VERB child/NOUN
+consequence/NOUN intent/NOUN
+responsibility/NOUN shinobi/NOUN
+ideal/ADJ expose/VERB
+cook/VERB ordinary/ADJ
+plan/VERB intensity/NOUN
+present/ADJ change/NOUN
+manipulate/VERB villain/NOUN
+blame/VERB phase/NOUN
+grandpa/NOUN proof/NOUN
+exactly/ADV graduate/VERB
+Words in common: 2/20
+
+laugh/NOUN
+Model 1 | Model 2
+laugh/NOUN laugh/NOUN
+sigh/NOUN yawn/NOUN
+nod/NOUN sigh/NOUN
+groan/NOUN cough/NOUN
+gasp/NOUN gasp/NOUN
+huff/NOUN frown/NOUN
+huff/VERB giggle/NOUN
+grin/NOUN smile/NOUN
+chuckle/NOUN scowl/NOUN
+smirk/NOUN grunt/NOUN
+smile/NOUN chuckle/NOUN
+glare/NOUN grin/NOUN
+hug/NOUN glare/NOUN
+frown/NOUN huff/NOUN
+whisper/NOUN groan/NOUN
+squeeze/NOUN sob/NOUN
+sob/NOUN chirp/VERB
+bow/NOUN hug/NOUN
+feather/NOUN bow/NOUN
+glance/NOUN grimace/NOUN
+Words in common: 13/20
+
+High-dominance words in common: 77/400
+
+Words with lowest dominance:
+enemy/NOUN
+Model 1 | Model 2
+enemy/NOUN enemy/NOUN
+ally/NOUN ace/NOUN
+design/NOUN ally/NOUN
+instinct/NOUN adventure/NOUN
+resource/NOUN child/NOUN
+target/NOUN assassin/NOUN
+overall/ADJ explosion/NOUN
+alien/ADJ illusion/NOUN
+citizen/NOUN orphan/NOUN
+excuse/NOUN opponent/NOUN
+presence/NOUN ordinary/ADJ
+mission/NOUN invisible/ADJ
+guardian/NOUN leader/NOUN
+mercy/NOUN soul/NOUN
+emergency/NOUN absence/NOUN
+capability/NOUN statement/NOUN
+will/NOUN father/NOUN
+skill/NOUN command/NOUN
+army/NOUN failure/NOUN
+repair/VERB execution/NOUN
+Words in common: 2/20
+
+dangerous/ADJ
+Model 1 | Model 2
+dangerous/ADJ dangerous/ADJ
+useful/ADJ complicated/ADJ
+confusing/ADJ smart/ADJ
+smart/ADJ gross/ADJ
+scared/ADJ surprisingly/ADV
+intense/ADJ powerful/ADJ
+specific/ADJ terrifying/ADJ
+suspicious/ADJ kind/ADJ
+expensive/ADJ useful/ADJ
+simple/ADJ russian/ADJ
+jerk/NOUN offended/ADJ
+highly/ADV importantly/ADV
+strong/ADJ dumb/ADJ
+broken/ADJ friendly/ADJ
+powerful/ADJ popular/ADJ
+obvious/ADJ painful/ADJ
+lonely/ADJ frankly/ADV
+impressive/ADJ funny/ADJ
+evil/ADJ it/VERB
+trial/NOUN fun/ADJ
+Words in common: 4/20
+
+cry/VERB
+Model 1 | Model 2
+cry/VERB cry/VERB
+freak/VERB laugh/VERB
+stammer/VERB yell/VERB
+cough/VERB unfortunately/ADV
+blurt/VERB invite/VERB
+flinch/VERB stutter/VERB
+drown/VERB scold/VERB
+scream/VERB call/VERB
+spit/VERB blurt/VERB
+moan/VERB moan/VERB
+huff/VERB drawl/VERB
+curse/VERB shout/VERB
+pout/VERB forgive/VERB
+grunt/VERB breathe/VERB
+breathe/VERB protest/VERB
+hesitate/VERB scoff/VERB
+protest/VERB offend/VERB
+laugh/VERB punch/VERB
+shudder/VERB shriek/VERB
+shiver/VERB sob/VERB
+Words in common: 6/20
+
+cry/NOUN
+Model 1 | Model 2
+cry/NOUN cry/NOUN
+shout/NOUN rush/NOUN
+flicker/NOUN groan/NOUN
+spray/NOUN flash/NOUN
+heave/VERB roar/NOUN
+glow/NOUN pleasant/ADJ
+laughter/NOUN ache/NOUN
+scream/NOUN lump/NOUN
+blush/NOUN middle/NOUN
+crackle/VERB patch/NOUN
+nod/NOUN bucket/NOUN
+thin/ADJ pit/NOUN
+gasp/NOUN giggle/NOUN
+protest/NOUN search/NOUN
+fan/NOUN warmth/NOUN
+sigh/NOUN gasp/NOUN
+smack/VERB stretch/NOUN
+bank/NOUN shake/NOUN
+jean/NOUN flush/NOUN
+mouthful/NOUN pulse/NOUN
+Words in common: 2/20
+
+drown/VERB
+Model 1 | Model 2
+drown/VERB drown/VERB
+cry/VERB stab/VERB
+choke/VERB chew/VERB
+tune/VERB rattle/VERB
+freak/VERB ground/VERB
+spit/VERB concern/VERB
+soothe/VERB lay/VERB
+write/VERB chain/NOUN
+type/VERB whimper/VERB
+ring/VERB trap/VERB
+carry/VERB corner/VERB
+lay/VERB crush/VERB
+taste/VERB background/NOUN
+polite/ADJ knock/VERB
+confidence/NOUN carry/VERB
+find/VERB cut/VERB
+act/VERB carve/VERB
+stretch/VERB seat/VERB
+stab/VERB destroy/VERB
+hang/VERB choke/VERB
+Words in common: 5/20
+
+panic/NOUN
+Model 1 | Model 2
+panic/NOUN panic/NOUN
+circle/NOUN heart/NOUN
+glow/NOUN beat/NOUN
+ignite/VERB style/NOUN
+rage/NOUN attack/NOUN
+pocket/NOUN underwear/NOUN
+carpet/NOUN relief/NOUN
+shock/NOUN surprise/NOUN
+plastic/ADJ chicken/NOUN
+lump/NOUN spike/NOUN
+faint/ADJ grasp/NOUN
+lung/NOUN vicious/ADJ
+vein/NOUN feature/NOUN
+excitement/NOUN growl/NOUN
+cowl/NOUN cough/NOUN
+palace/NOUN excitement/NOUN
+memory/NOUN chest/NOUN
+flame/NOUN drawer/NOUN
+shadow/NOUN annoyance/NOUN
+crack/NOUN knuckle/NOUN
+Words in common: 2/20
+
+panic/VERB
+Model 1 | Model 2
+panic/VERB panic/VERB
+halt/VERB scold/VERB
+pretend/VERB snarl/VERB
+recover/VERB chuckle/VERB
+mock/VERB scoff/VERB
+claim/VERB scowl/VERB
+protest/VERB snort/VERB
+produce/VERB drawl/VERB
+flee/VERB pout/VERB
+force/VERB yawn/VERB
+attempt/VERB stammer/VERB
+stammer/VERB nod/VERB
+acknowledge/VERB laugh/VERB
+decide/VERB smirk/VERB
+snatch/VERB moan/VERB
+risk/VERB retort/VERB
+taunt/VERB grin/VERB
+threaten/VERB wince/VERB
+determine/VERB demand/VERB
+convince/VERB personally/ADV
+Words in common: 2/20
+
+dead/ADJ
+Model 1 | Model 2
+dead/ADJ dead/ADJ
+alive/ADJ ishvalan/ADJ
+lucky/ADJ shinobi/NOUN
+mine/PRON gorgeous/ADJ
+innocent/ADJ welcome/ADJ
+gay/ADJ relatively/ADV
+smart/ADJ trap/VERB
+fault/NOUN cage/NOUN
+kidnap/VERB worried/ADJ
+rich/ADJ jerk/NOUN
+accuse/VERB brat/NOUN
+favorite/ADJ club/NOUN
+terrifying/ADJ shift/NOUN
+master/NOUN human/ADJ
+definitely/ADV habit/NOUN
+complete/ADJ cruel/ADJ
+citizen/NOUN dumb/ADJ
+straight/ADJ late/ADJ
+confusing/ADJ wonderful/ADJ
+technically/ADV pirate/NOUN
+Words in common: 1/20
+
+terrifying/ADJ
+Model 1 | Model 2
+terrifying/ADJ terrifying/ADJ
+confident/ADJ fake/ADJ
+beautiful/ADJ dangerous/ADJ
+cruel/ADJ special/ADJ
+although/SCONJ threatening/ADJ
+stern/ADJ important/ADJ
+rare/ADJ shinobi/NOUN
+intense/ADJ weird/ADJ
+hopeful/ADJ genius/NOUN
+complete/ADJ complicated/ADJ
+specific/ADJ comforting/ADJ
+tough/ADJ monster/NOUN
+selfish/ADJ sensitive/ADJ
+broken/ADJ funny/ADJ
+genius/NOUN ishvalan/ADJ
+odd/ADJ wonderful/ADJ
+comfortable/ADJ drinking/NOUN
+also/ADV seal/NOUN
+obey/VERB general/ADJ
+anticipate/VERB perfect/ADJ
+Words in common: 2/20
+
+afraid/ADJ
+Model 1 | Model 2
+afraid/ADJ afraid/ADJ
+proud/ADJ proud/ADJ
+scared/ADJ scared/ADJ
+suppose/VERB willing/ADJ
+sure/ADJ fond/ADJ
+glad/ADJ happy/ADJ
+prepared/ADJ tired/ADJ
+accuse/VERB sure/ADJ
+sick/ADJ pretend/VERB
+think/VERB terrified/ADJ
+dream/VERB relieved/ADJ
+embarrassed/ADJ jealous/ADJ
+hungry/ADJ capable/ADJ
+capable/ADJ reminder/NOUN
+afford/VERB aware/ADJ
+alone/ADJ constantly/ADV
+used/ADJ smart/ADJ
+surprised/ADJ remind/VERB
+definitely/ADV mean/ADJ
+rude/ADJ embarrassed/ADJ
+Words in common: 6/20
+
+victim/NOUN
+Model 1 | Model 2
+victim/NOUN victim/NOUN
+value/NOUN threat/NOUN
+reaction/NOUN connection/NOUN
+threat/NOUN funeral/NOUN
+impact/NOUN grace/NOUN
+lesson/NOUN delicate/ADJ
+location/NOUN force/NOUN
+extent/NOUN exception/NOUN
+attack/NOUN fate/NOUN
+introduction/NOUN suit/NOUN
+adventure/NOUN knife/NOUN
+strategy/NOUN butler/NOUN
+combination/NOUN potential/ADJ
+version/NOUN brim/NOUN
+series/NOUN absence/NOUN
+death/NOUN negative/ADJ
+statement/NOUN left/NOUN
+guardian/NOUN spike/NOUN
+consequence/NOUN chimera/NOUN
+show/NOUN task/NOUN
+Words in common: 2/20
+
+unconscious/ADJ
+Model 1 | Model 2
+unconscious/ADJ unconscious/ADJ
+opening/NOUN terrified/ADJ
+generally/ADV frame/NOUN
+accident/NOUN wary/ADJ
+twenty/NUM gift/NOUN
+transfer/VERB powerless/ADJ
+fifteen/NUM everywhere/ADV
+court/NOUN breathless/ADJ
+alone/ADJ exhausted/ADJ
+age/NOUN weary/ADJ
+responsibility/NOUN bloody/ADJ
+title/NOUN black/NOUN
+direct/VERB patient/ADJ
+hospital/NOUN cheerful/ADJ
+anticipate/VERB corner/VERB
+ideal/ADJ crumple/VERB
+directly/ADV command/NOUN
+ground/VERB private/ADJ
+simply/ADV visible/ADJ
+later/ADV delighted/ADJ
+Words in common: 1/20
+
+sick/ADJ
+Model 1 | Model 2
+sick/ADJ sick/ADJ
+proud/ADJ scared/ADJ
+afraid/ADJ jealous/ADJ
+bitch/NOUN worried/ADJ
+bored/ADJ tired/ADJ
+scared/ADJ hungry/ADJ
+weird/ADJ illegal/ADJ
+drunk/ADJ lonely/ADJ
+crazy/ADJ mad/ADJ
+pretty/ADJ pleased/ADJ
+useless/ADJ mean/ADJ
+joke/NOUN alright/ADJ
+optimistic/ADJ proud/ADJ
+hungry/ADJ excited/ADJ
+crap/NOUN upset/ADJ
+tough/ADJ funny/ADJ
+impressive/ADJ nervous/ADJ
+pathetic/ADJ yours/PRON
+tired/ADJ mine/PRON
+used/ADJ afraid/ADJ
+Words in common: 6/20
+
+mess/NOUN
+Model 1 | Model 2
+mess/NOUN mess/NOUN
+corner/NOUN mistake/NOUN
+heap/NOUN spark/NOUN
+bruise/NOUN shame/NOUN
+ring/NOUN island/NOUN
+wave/NOUN crack/NOUN
+basis/NOUN universe/NOUN
+clearing/NOUN city/NOUN
+pencil/NOUN trick/NOUN
+lift/NOUN situation/NOUN
+cube/NOUN monster/NOUN
+board/NOUN exhaustion/NOUN
+act/NOUN guilt/NOUN
+burn/NOUN statement/NOUN
+row/NOUN cold/NOUN
+endless/ADJ conversation/NOUN
+atmosphere/NOUN phrase/NOUN
+age/NOUN secret/NOUN
+flicker/NOUN pathetic/ADJ
+shadow/NOUN meaning/NOUN
+Words in common: 1/20
+
+mess/VERB
+Model 1 | Model 2
+mess/VERB mess/VERB
+deal/VERB chat/VERB
+wake/VERB pack/VERB
+communicate/VERB fuck/VERB
+mix/VERB flirt/VERB
+fuck/VERB spar/VERB
+patch/VERB practice/VERB
+end/VERB wake/VERB
+screw/VERB interact/VERB
+clean/VERB associate/VERB
+sleep/VERB cuddle/VERB
+pack/VERB pick/VERB
+surprise/VERB pile/VERB
+work/VERB build/VERB
+snatch/VERB comfort/VERB
+greet/VERB bother/VERB
+stab/VERB dance/VERB
+cook/VERB fully/ADV
+type/VERB clean/VERB
+suck/VERB upset/VERB
+Words in common: 5/20
+
+asshole/NOUN
+Model 1 | Model 2
+asshole/NOUN asshole/NOUN
+accident/NOUN idiot/NOUN
+idiot/NOUN act/NOUN
+excellent/ADJ illusion/NOUN
+insane/ADJ alchemist/NOUN
+apology/NOUN brat/NOUN
+animal/NOUN exception/NOUN
+ok/ADJ excuse/NOUN
+innocent/ADJ intensity/NOUN
+evil/ADJ disease/NOUN
+explanation/NOUN awful/ADJ
+tonight/NOUN result/NOUN
+owe/VERB research/NOUN
+awesome/ADJ instant/NOUN
+order/NOUN orphan/NOUN
+murder/NOUN exact/ADJ
+bro/NOUN incident/NOUN
+bitch/NOUN bullshit/NOUN
+interview/NOUN test/NOUN
+play/NOUN confession/NOUN
+Words in common: 2/20
+
+embarrassment/NOUN
+Model 1 | Model 2
+embarrassment/NOUN embarrassment/NOUN
+armour/NOUN excitement/NOUN
+race/VERB despair/NOUN
+sand/NOUN disbelief/NOUN
+irritation/NOUN anticipation/NOUN
+drawer/NOUN irritation/NOUN
+excitement/NOUN acceptance/NOUN
+shock/NOUN swell/VERB
+confusion/NOUN hunger/NOUN
+vein/NOUN fabric/NOUN
+doorway/NOUN defeat/NOUN
+terror/NOUN unexpected/ADJ
+bubble/VERB palm/NOUN
+swirl/VERB chopstick/NOUN
+disbelief/NOUN airport/NOUN
+delight/NOUN reflection/NOUN
+amber/NOUN tunic/NOUN
+anger/NOUN wave/NOUN
+discomfort/NOUN enormous/ADJ
+wine/NOUN absence/NOUN
+Words in common: 4/20
+
+fool/NOUN
+Model 1 | Model 2
+fool/NOUN fool/NOUN
+bitch/NOUN mistake/NOUN
+delicious/ADJ pleasure/NOUN
+accident/NOUN reminder/NOUN
+specific/ADJ pervert/NOUN
+lie/NOUN trick/NOUN
+hungry/ADJ picture/NOUN
+impressed/ADJ bunch/NOUN
+manner/NOUN waste/NOUN
+confusing/ADJ mental/ADJ
+scared/ADJ choice/NOUN
+wonderful/ADJ sign/NOUN
+jerk/NOUN monster/NOUN
+joke/NOUN shame/NOUN
+awesome/ADJ joke/NOUN
+innocent/ADJ crap/NOUN
+smart/ADJ flustered/ADJ
+complicated/ADJ scared/ADJ
+fair/ADJ chance/NOUN
+definitely/ADV need/NOUN
+Words in common: 3/20
+
+drunk/ADJ
+Model 1 | Model 2
+drunk/ADJ drunk/ADJ
+fast/ADJ challenge/NOUN
+confusing/ADJ delighted/ADJ
+lucky/ADJ strong/ADJ
+proud/ADJ handful/NOUN
+mad/ADJ thousand/NUM
+sick/ADJ pleasant/ADJ
+scared/ADJ thoughtful/ADJ
+impressed/ADJ ninja/NOUN
+surprised/ADJ capable/ADJ
+busy/ADJ suppress/VERB
+straight/ADJ useless/ADJ
+hungry/ADJ friendly/ADJ
+tired/ADJ wonderful/ADJ
+afraid/ADJ result/NOUN
+alright/ADJ curious/ADJ
+glad/ADJ owner/NOUN
+gay/ADJ shinobi/NOUN
+bored/ADJ win/NOUN
+welcome/ADJ conscious/ADJ
+Words in common: 1/20
+
+terror/NOUN
+Model 1 | Model 2
+terror/NOUN terror/NOUN
+torso/NOUN betrayal/NOUN
+red/NOUN worry/NOUN
+rage/NOUN wake/NOUN
+disbelief/NOUN background/NOUN
+widen/VERB underwear/NOUN
+embarrassment/NOUN shift/NOUN
+gleam/VERB arrival/NOUN
+boxer/NOUN size/NOUN
+fury/NOUN warrior/NOUN
+concern/NOUN trust/NOUN
+weave/VERB stretch/NOUN
+flutter/VERB confusion/NOUN
+frustration/NOUN scream/NOUN
+jean/NOUN irritation/NOUN
+sting/VERB nature/NOUN
+muscle/NOUN basket/NOUN
+excitement/NOUN heap/NOUN
+amusement/NOUN happiness/NOUN
+pen/NOUN despair/NOUN
+Words in common: 1/20
+
+Low-dominance words in common: 58/400
+
+Total words in common: 430/2400

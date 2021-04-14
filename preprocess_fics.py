@@ -21,9 +21,9 @@ def preprocess_fics(input_path, output_path):
             # Remove leading and trailing whitespace
             data = data.strip()
             # Replace all whitespace characters with spaces
-            data = re.sub(r"\s{1,}", " ", data)
+            data = re.sub(r'\s{1,}', ' ', data)
             # Remove duplicate spaces
-            data = re.sub(r" +", " ", data)
+            data = re.sub(r' +', ' ', data)
 
             doc = nlp(data)
             preprocessed_sentences = []
