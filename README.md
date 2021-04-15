@@ -13,6 +13,4 @@ This codebase has the following dependencies:
 * torch
 * numpy
 
-On the subject of fandom selection: "Miraculous Ladybug" appears in both the "Cartoons & Comics & Graphic Novels" and "Anime & Manga" sections. It is a French-Italian-Japanese-South Korean joint production, and French, English, Korean, and Japanese are all original languages for it. For simplicity's sake, it was excluded from both categories in our analysis.
-
 As part of its output, train_model.py generates PyTorch parameter files (.pt) to store the parameters of the trained models after each training epoch. These files were over 20 MB each, and there were 10 of them (2 models x 5 epochs), so the gitignore excludes them from the repo.
